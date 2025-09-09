@@ -45,6 +45,7 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
 #figure(
   table(
     columns: (auto, auto, auto),
+    align: (right, left, left),
     stroke: none,
     table.hline(),
     table.header( [], [-ar], [-er / -ir]),
@@ -64,6 +65,7 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
 #figure(
   table(
     columns: (auto, auto, auto, auto),
+    align: (right, left, left, left),
     stroke: none,
     table.hline(),
     table.header( [], [falar], [beber], [partir]),
@@ -76,4 +78,35 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
     [eles], [falem],   [bebam],   [partam],
     table.hline(),
   ),
+  caption: [#presente_do_conjuntivo (verbos regulares)],
+)
+
+#figure(
+  table(
+    columns: (auto, auto, auto, auto),
+    align: (right, left, left, left),
+    stroke: none,
+    table.hline(),
+    table.header( [], [dar], [estart], [ir]),
+    table.hline(),
+    [eu],   [dê],    [esteja],    [vâ],
+    [tu],   [dês],   [estejas],   [vâs],
+    [ele],  [dê],    [esteja],    [vâ],
+    [nós],  [demos], [estejamos], [vamos],
+    [vós],  [deis],  [estejais],  [vades],
+    [eles], [dêem],  [estejam],   [vão],
+    table.hline(),
+    [], [], [], [],
+    table.hline(),
+    [],     [querer],    [saber],    [ser],
+    table.hline(),
+    [eu],   [queira],    [saiba],    [seja],
+    [tu],   [queiras],   [saibas],   [sejas],
+    [ele],  [queira],    [saiba],    [seja],
+    [nós],  [queiramos], [saibamos], [sejamos],
+    [vós],  [queireis],  [saibais],  [sejais],
+    [eles], [queiram],   [saibam],   [sejam],
+    table.hline(),
+  ),
+  caption: [#presente_do_conjuntivo (verbos irregulares)],
 )
