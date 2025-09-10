@@ -1,10 +1,12 @@
 #import "./common.typ": vocab
+#import "@preview/glossarium:0.5.9": gls
 
 = Conjuntivo
 == Presente do Conjuntivo
 
-#let presente_do_conjuntivo = [_Presente do Conjuntivo_]
-#let presente_do_indicativo = [_Presente do Indicativo_]
+#let presente_do_conjuntivo = [_#gls("pres-conj")_]
+#let presente_do_indicativo = [_#gls("pres-ind")_]
+
 
 O #presente_do_conjuntivo é usado nas frases dependentes de verbos que exprimem desejo (wens) / vontade (esperar, querer, preferir, pedir, agradecer), sentimento (lamentar, recear) ou dúvida (duvidar) introduzidas por _que_. O #presente_do_conjuntivo exprime se alguma coisa pode ou não pode acontecer no presente ou no futuro. Os sujeitos das frases principal e subordinada têm de ser diferentes:
 
