@@ -1,4 +1,4 @@
-name Build typst document
+name: Build typst document
 on: [push, workflow_dispatch]
 
 permissions:
