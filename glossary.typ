@@ -43,5 +43,8 @@
     key: "pres-conj",
     short: "Presente do Conjuntivo",
   ),
-
+  (
+    key: "pic",
+    short: "Pretérito Imperfeito do Conjuntivo"
+  )
 )
