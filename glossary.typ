@@ -11,13 +11,11 @@
   ),
   (
     key: "ppsi",
-    short: "PPSI",
-    long: "Pretérito Perfeito Simples do Indicativo",
+    short: "Pretérito Perfeito Simples do Indicativo",
   ),
   (
     key: "pii",
-    short: "PII",
-    long: "Pretérito Imperfeito do Indicativo",
+    short: "Pretérito Imperfeito do Indicativo",
   ),
   (
     key: "inf-pes",

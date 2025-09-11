@@ -7,6 +7,8 @@
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
 #let pic = [_#gls("pic")_]
+#let pii = [_#gls("pii")_]
+#let cond = [_#gls("cond")_]
 
 O #presente_do_conjuntivo é usado nas frases dependentes de verbos que exprimem desejo (wens) / vontade (esperar, querer, preferir, pedir, agradecer), sentimento (lamentar, recear) ou dúvida (duvidar) introduzidas por _que_. O #presente_do_conjuntivo exprime se alguma coisa pode ou não pode acontecer no presente ou no futuro. Os sujeitos das frases principal e subordinada têm de ser diferentes:
 
@@ -130,3 +132,81 @@ Deve usar o pretérito imperfeito do conjuntivo quando:
     #sym.arrow.r Als hij het had geweten, zou hij geholpen hebben.
   - Ela agiu como se não me conhecesse.\
     #sym.arrow.r Ze deed alsof ze me niet kende.
+
++ In voorwaardelijke / conditionele zinnen - vooral in situaties die in strijd zijn met de feiten in het verleden. *Se* + #pic #sym.arrow.r voorwaardelijk / conditioneel
+  - Se eu tivesse dinheiro, comprava um carro. \
+    #sym.arrow.r Als ik geld had, zou ik een auto kopen.
+
++ Bij indirecte rede, wanneer het rapporterende werkwoord in het verleden staat.
+  - Ele disse que queira que eu fosse com ele. \
+    #sym.arrow.r Hij zei dat hij wilde dat ik met hem meeging.
+
+De hoofdzin staat meestal in de #pii of in de #cond:
+  - Eu faria isso se #sym.dots \
+    #sym.arrow.r Ik zou dat doen als #sym.dots
+  - Gostava que #sym.dots \
+    #sym.arrow.r  Ik zou graag #sym.dots
+  - Eu esperava que #sym.dots \
+    #sym.arrow.r Ik verwachte dat 
+    #sym.arrow.r Ik hoopte dat #sym.dots
+  - Pensei que #sym.dots \ 
+    #sym.arrow.r Ik dacht dat #sym.dots
+  - Seria bom que #sym.dots \
+    #sym.arrow.r Het zou goed zijn als #sym.dots
+  - O que fazias se #sym.dots \
+    #sym.arrow.r Wat zou jij doen als #sym.dots
+
+De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que_. 
+  - Se eu, Se tue, Se nós #sym.dots \
+    Als ik, als jij, als wij #sym.dots
+  - Mesmo que #sym.dots \
+    Zelfs als #sym.dots
+  - Como se #sym.dots \
+    Alsof #sym.dots
+  - Talvez #sym.dots \
+    Misschien #sym.dots
+  - E se nós #sym.dots?, E se tu #sym.dots? \
+    En wat als we #sym.dots? En wat als je #sym.dots?
+
+
+As terminações do #pic são descritos em @imperfeito_conjuntivo_ends.
+
+#figure(
+  table(
+    columns: (auto, auto, auto, auto),
+    align: (right, left, left, left),
+    stroke: none,
+    table.hline(),
+    table.header( [], [-ar], [-er], [-ir]),
+    table.hline(),
+    [eu],   [-asse],    [-esse],    [-isse],
+    [tu],   [-asses],   [-esses],   [-isses],
+    [ele],  [-asse],    [-esse],    [-isse],
+    [nós],  [-ássemos], [-éssemos], [-íssemos],
+    [vós],  [-ásseis],  [-ésseis],  [-ísseis],
+    [eles], [-assem],   [-essem],   [-issem],
+    table.hline(),
+  ),
+  caption: [As terminações do #pic (verbos regulares)],
+) <imperfeito_conjuntivo_ends>
+
+
+
+#figure(
+  table(
+    columns: (auto, auto, auto, auto),
+    align: (right, left, left, left),
+    stroke: none,
+    table.hline(),
+    table.header( [], [falar], [beber], [partir]),
+    table.hline(),
+    [eu],   [falasse],    [bebesse],    [partisse],
+    [tu],   [falasses],   [bebesses],   [partisses],
+    [ele],  [falasse],    [bebesse],    [partisse],
+    [nós],  [falássemos], [bebéssemos], [partíssemos],
+    [vós],  [falásseis],  [bebésseis],  [partísseis],
+    [eles], [falassem],   [bebessem],   [partissem],
+    table.hline(),
+  ),
+  caption: [#pic (verbos regulares)],
+)
