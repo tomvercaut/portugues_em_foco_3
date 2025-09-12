@@ -9,3 +9,82 @@
     ..rows.flatten()
   )
 }
+
+#let conjugation(
+  verbs: (), 
+  data: (), 
+  caption: none,
+  ) = {
+  
+  let columns = ()
+  columns.push(auto)
+
+  let aligns = ()
+  aligns.push(alignment.right)
+
+  let hdr = ()
+  hdr.push([])
+  for c in verbs {
+    // aligns.push( alignment.left )
+    columns.push(auto)
+    aligns.push(alignment.left)
+    hdr.push(c)
+  }
+
+  let l = ()
+  if data.keys().contains("eu") {
+    l.push([eu])
+    for a in data.at("eu") {
+      l.push(a)
+    }
+  }
+
+  if data.keys().contains("tu") {
+    l.push([tu])
+    for a in data.at("tu") {
+      l.push(a)
+    }
+  }
+
+  if data.keys().contains("ele") {
+    l.push([ele])
+    for a in data.at("ele") {
+      l.push(a)
+    }
+  }
+
+  if data.keys().contains("nos") {
+    l.push([nós])
+    for a in data.at("nos") {
+      l.push(a)
+    }
+  }
+
+  if data.keys().contains("vos") {
+    l.push([vós])
+    for a in data.at("vos") {
+      l.push(a)
+    }
+  }
+
+  if data.keys().contains("eles") {
+    l.push([eles])
+    for a in data.at("eles") {
+      l.push(a)
+    }
+  }
+
+  figure(
+    table(
+      columns: columns,
+      stroke: none,
+      align: aligns,
+      table.hline(),
+      table.header(..hdr),
+      table.hline(),
+      ..l, 
+      table.hline(),
+    ),
+    caption: caption
+  )
+}

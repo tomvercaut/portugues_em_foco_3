@@ -1,4 +1,4 @@
-#import "./common.typ": vocab
+#import "./common.typ": vocab, conjugation
 #import "@preview/glossarium:0.5.9": gls
 
 = Conjuntivo
@@ -6,6 +6,7 @@
 
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
+#let ppsi = [_#gls("ppsi")_]
 #let pic = [_#gls("pic")_]
 #let pii = [_#gls("pii")_]
 #let cond = [_#gls("cond")_]
@@ -171,42 +172,54 @@ De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que
 
 As terminações do #pic são descritos em @imperfeito_conjuntivo_ends.
 
-#figure(
-  table(
-    columns: (auto, auto, auto, auto),
-    align: (right, left, left, left),
-    stroke: none,
-    table.hline(),
-    table.header( [], [-ar], [-er], [-ir]),
-    table.hline(),
-    [eu],   [-asse],    [-esse],    [-isse],
-    [tu],   [-asses],   [-esses],   [-isses],
-    [ele],  [-asse],    [-esse],    [-isse],
-    [nós],  [-ássemos], [-éssemos], [-íssemos],
-    [vós],  [-ásseis],  [-ésseis],  [-ísseis],
-    [eles], [-assem],   [-essem],   [-issem],
-    table.hline(),
+Vorming van de #pic gebeurd op basis van de 3#super[de] persoon meervoud van de #ppsi.
+Vervang _-ram_ met de uiteinden beschreven in @imperfeito_conjuntivo_ends. 
+
+#conjugation(
+  verbs: ([-ar], [-er], [-ir]),
+  data: (
+    eu:   ([-sse],    [-sse],    [-sse]),
+    tu:   ([-sses],   [-sses],   [-sses]),
+    ele:  ([-sse],    [-sse],    [-sse]),
+    nos:  ([-ssemos], [-ssemos], [-ssemos]),
+    vos:  ([-sseis],  [-sseis],  [-sseis]),
+    eles: ([-ssem],   [-ssem],   [-ssem]),
   ),
   caption: [As terminações do #pic (verbos regulares)],
 ) <imperfeito_conjuntivo_ends>
 
+// https://portuguesepedia.com/portuguese-past-subjunctive/
 
+Bij _nós_ en _vós_ ligt de nadruk op de derde laatste lettergreep. 
+Hierdoor wordt er bij werkwoorden die eindigen op _-ar_, _-er_ en _-ir_ een accent toegevoegd op de 
+_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
 
-#figure(
-  table(
-    columns: (auto, auto, auto, auto),
-    align: (right, left, left, left),
-    stroke: none,
-    table.hline(),
-    table.header( [], [falar], [beber], [partir]),
-    table.hline(),
-    [eu],   [falasse],    [bebesse],    [partisse],
-    [tu],   [falasses],   [bebesses],   [partisses],
-    [ele],  [falasse],    [bebesse],    [partisse],
-    [nós],  [falássemos], [bebéssemos], [partíssemos],
-    [vós],  [falásseis],  [bebésseis],  [partísseis],
-    [eles], [falassem],   [bebessem],   [partissem],
-    table.hline(),
+#conjugation(
+  verbs: ([falar], [beber], [partir]),
+  data: (
+    eu:   ([falasse],    [bebesse],    [partisse]),
+    tu:   ([falasses],   [bebesses],   [partisses]),
+    ele:  ([falasse],    [bebesse],    [partisse]),
+    nos:  ([falássemos], [bebéssemos], [partíssemos]),
+    vos:  ([falásseis],  [bebésseis],  [partísseis]),
+    eles: ([falassem],   [bebessem],   [partissem]),
   ),
-  caption: [#pic (verbos regulares)],
+  caption: [#pic (verbos regulares)]
 )
+
+// https://www.practiceportuguese.com/learning-notes/imperfect-subjunctive/
+//
+
+#conjugation(
+  verbs: ([ser], [estar], [dar], [ir]),
+  data: (
+    eu:   ([fosse],    [estivesse],    [desse],    [fosse]),
+    tu:   ([fosses],   [estivesses],   [desses],   [fosses]),
+    ele:  ([fosse],    [estivesse],    [desse],    [fosse]),
+    nos:  ([fôssemos], [estivéssemos], [déssemos], [fôssemos]),
+    vos:  ([fôsseis],  [estivésseis],  [désseis],  [fôsseis]),
+    eles: ([fossem],   [estivessem],   [dessem],   [fossem]),
+  ),
+  caption: [#pic (verbos regulares)]
+)
+
