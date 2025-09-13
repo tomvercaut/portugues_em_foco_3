@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, conjugation
+#import "./common.typ": vocab, conjugation, tbl_hdr_color
 #import "@preview/glossarium:0.5.9": gls
 
 = Conjuntivo
@@ -147,6 +147,12 @@ As terminações do #pic são descritos em @imperfeito_conjuntivo_ends.
 Vorming van de #pic gebeurd op basis van de 3#super[de] persoon meervoud van de #ppsi.
 Vervang _-ram_ met de uiteinden beschreven in @imperfeito_conjuntivo_ends. 
 
+// https://portuguesepedia.com/portuguese-past-subjunctive/
+
+Bij _nós_ en _vós_ ligt de nadruk op de derde laatste lettergreep. 
+Hierdoor wordt er bij werkwoorden die eindigen op _-ar_, _-er_ en _-ir_ een accent toegevoegd op de 
+_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
+
 #conjugation(
   verbs: ([-ar], [-er], [-ir]),
   data: (
@@ -160,11 +166,24 @@ Vervang _-ram_ met de uiteinden beschreven in @imperfeito_conjuntivo_ends.
   caption: [As terminações do #pic (verbos regulares)],
 ) <imperfeito_conjuntivo_ends>
 
-// https://portuguesepedia.com/portuguese-past-subjunctive/
-
-Bij _nós_ en _vós_ ligt de nadruk op de derde laatste lettergreep. 
-Hierdoor wordt er bij werkwoorden die eindigen op _-ar_, _-er_ en _-ir_ een accent toegevoegd op de 
-_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
+#figure(
+  table(
+    columns: (auto, auto, auto, auto),
+    stroke: none,
+    align: (right, left, left, left),
+    table.hline(),
+    table.header([], text(fill: tbl_hdr_color, weight: "bold")[falar], text(fill: tbl_hdr_color, weight: "bold")[beber], text(fill: tbl_hdr_color, weight: "bold")[partir]),
+    table.hline(),
+    [3#super[a] _pl._ #ppsi], [falaram], [beberam], [partiram],
+    [], [], [#align(center, sym.arrow.b)], [],
+    [], [fala-], [bebe-], [parti-],
+    [], [], [#align(center, sym.arrow.b)], [],
+    [eu], [falasse], [bebesse], [partisse],
+    [tu], [falasses], [bebesses], [partisses],
+    [], [], [#align(center, sym.dots.v)], [],
+    table.hline(),
+  )
+)
 
 #conjugation(
   verbs: ([falar], [beber], [partir]),

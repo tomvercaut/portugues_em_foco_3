@@ -68,7 +68,7 @@
   show heading: set text(hyphenate: false)
   
   // Table of content
-  outline(depth: 1)
+  outline(depth: 2)
   pagebreak(weak: true)
   {
     body
