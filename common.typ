@@ -1,3 +1,5 @@
+#let tbl_hdr_color = color.linear-rgb(47,84,150)
+
 #let vocab(rows: ()) = {
   table(
     columns: (auto, auto),
@@ -28,7 +30,8 @@
     // aligns.push( alignment.left )
     columns.push(auto)
     aligns.push(alignment.left)
-    hdr.push(c)
+    // hdr.push(c)
+    hdr.push(text(fill: tbl_hdr_color, weight: "bold")[#c])
   }
 
   let l = ()
