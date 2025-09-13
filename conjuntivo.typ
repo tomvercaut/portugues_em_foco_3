@@ -47,71 +47,43 @@ As formas do #presente_do_conjuntivo regular formam-se a partir da 1.#super[a] p
 
 As terminações do #presente_do_conjuntivo são descritos em @presente_conjuntivo_ends.
 
-#figure(
-  table(
-    columns: (auto, auto, auto),
-    align: (right, left, left),
-    stroke: none,
-    table.hline(),
-    table.header( [], [-ar], [-er / -ir]),
-    table.hline(),
-    [eu],   [-e],    [-a],
-    [tu],   [-es],   [-as],
-    [ele],  [-e],    [-a],
-    [nós],  [-emos], [-amos],
-    [vós],  [-eis],  [-ais],
-    [eles], [-em],   [-am],
-    table.hline(),
+#conjugation(
+  verbs: ([-ar], [-er], [-ir]),
+  data: (
+    eu:   ([-e],    [-a],    [-a]),
+    tu:   ([-es],   [-as],   [-as]),
+    ele:  ([-e],    [-a],    [-a]),
+    nos:  ([-emos], [-amos], [-amos]),
+    vos:  ([-eis],  [-ais],  [-ais]),
+    eles: ([-em],   [-am],   [-am]),
   ),
   caption: [As terminações do #presente_do_conjuntivo (verbos regulares)],
 ) <presente_conjuntivo_ends>
 
 
-#figure(
-  table(
-    columns: (auto, auto, auto, auto),
-    align: (right, left, left, left),
-    stroke: none,
-    table.hline(),
-    table.header( [], [falar], [beber], [partir]),
-    table.hline(),
-    [eu],   [fale],    [beba],    [parta],
-    [tu],   [fales],   [bebas],   [partas],
-    [ele],  [fale],    [beba],    [parta],
-    [nós],  [falemos], [bebamos], [partamos],
-    [vós],  [faleis],  [bebais],  [partais],
-    [eles], [falem],   [bebam],   [partam],
-    table.hline(),
+#conjugation(
+  verbs: ([falar], [beber], [partir]),
+  data: (
+    eu:   ([fale],    [beba],    [parta]),
+    tu:   ([fales],   [bebas],   [partas]),
+    ele:  ([fale],    [beba],    [parta]),
+    nos:  ([falemos], [bebamos], [partamos]),
+    vos:  ([faleis],  [bebais],  [partais]),
+    eles: ([falem],   [bebam],   [partam]),
   ),
   caption: [#presente_do_conjuntivo (verbos regulares)],
 )
 
-#figure(
-  table(
-    columns: (auto, auto, auto, auto),
-    align: (right, left, left, left),
-    stroke: none,
-    table.hline(),
-    table.header( [], [dar], [estart], [ir]),
-    table.hline(),
-    [eu],   [dê],    [esteja],    [vâ],
-    [tu],   [dês],   [estejas],   [vâs],
-    [ele],  [dê],    [esteja],    [vâ],
-    [nós],  [demos], [estejamos], [vamos],
-    [vós],  [deis],  [estejais],  [vades],
-    [eles], [dêem],  [estejam],   [vão],
-    table.hline(),
-    [], [], [], [],
-    table.hline(),
-    [],     [querer],    [saber],    [ser],
-    table.hline(),
-    [eu],   [queira],    [saiba],    [seja],
-    [tu],   [queiras],   [saibas],   [sejas],
-    [ele],  [queira],    [saiba],    [seja],
-    [nós],  [queiramos], [saibamos], [sejamos],
-    [vós],  [queireis],  [saibais],  [sejais],
-    [eles], [queiram],   [saibam],   [sejam],
-    table.hline(),
+
+#conjugation(
+  verbs: ([dar], [estar], [ir], [querer], [saber], [ser]),
+  data: (
+    eu:   ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja]),
+    tu:   ([dês],   [estejas],   [vâs],   [queiras],   [saibas],   [sejas]),
+    ele:  ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja]),
+    nos:  ([demos], [estejamos], [vamos], [queiramos], [saibamos], [sejamos]),
+    vos:  ([deis],  [estejais],  [vades], [queireis],  [saibais],  [sejais]),
+    eles: ([dêem],  [estejam],   [vão],   [queiram],   [saibam],   [sejam]),
   ),
   caption: [#presente_do_conjuntivo (verbos irregulares)],
 )
@@ -208,17 +180,16 @@ _a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
 )
 
 // https://www.practiceportuguese.com/learning-notes/imperfect-subjunctive/
-//
 
 #conjugation(
-  verbs: ([ser], [estar], [dar], [ir]),
+  verbs: ([ser], [estar], [dar], [ir], [fazer], [ter], [trazer]),
   data: (
-    eu:   ([fosse],    [estivesse],    [desse],    [fosse]),
-    tu:   ([fosses],   [estivesses],   [desses],   [fosses]),
-    ele:  ([fosse],    [estivesse],    [desse],    [fosse]),
-    nos:  ([fôssemos], [estivéssemos], [déssemos], [fôssemos]),
-    vos:  ([fôsseis],  [estivésseis],  [désseis],  [fôsseis]),
-    eles: ([fossem],   [estivessem],   [dessem],   [fossem]),
+    eu:   ([fosse],    [estivesse],    [desse],    [fosse],    [fizesse],    [tivesse],    [trouxesse]),
+    tu:   ([fosses],   [estivesses],   [desses],   [fosses],   [fizesses],   [tivesses],   [trouxesses]),
+    ele:  ([fosse],    [estivesse],    [desse],    [fosse],    [fizesse],    [tivesse],    [trouxesse]),
+    nos:  ([fôssemos], [estivéssemos], [déssemos], [fôssemos], [fizéssemos], [tivéssemos], [trouxéssemos]),
+    vos:  ([fôsseis],  [estivésseis],  [désseis],  [fôsseis],  [fizésseis],  [tivésseis],  [trouxésseis]),
+    eles: ([fossem],   [estivessem],   [dessem],   [fossem],   [fizessem],   [tivessem],   [trouxessem]),
   ),
   caption: [#pic (verbos regulares)]
 )
