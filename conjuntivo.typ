@@ -114,7 +114,8 @@ Deve usar o pretérito imperfeito do conjuntivo quando:
   - Ele disse que queira que eu fosse com ele. \
     #sym.arrow.r Hij zei dat hij wilde dat ik met hem meeging.
 
-De hoofdzin staat meestal in de #pii of in de #cond:
+A oração principal geralmente está no #pii ou no #cond:
+// _(De hoofdzin staat meestal in de #pii of in de #cond)_:
   - Eu faria isso se #sym.dots \
     #sym.arrow.r Ik zou dat doen als #sym.dots
   - Gostava que #sym.dots \
@@ -129,7 +130,8 @@ De hoofdzin staat meestal in de #pii of in de #cond:
   - O que fazias se #sym.dots \
     #sym.arrow.r Wat zou jij doen als #sym.dots
 
-De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que_. 
+A oração subordinada contém o #pic. A oração principal e a oração subordinada são ligadas por _que_:
+// (_De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que_ _). 
   - Se eu, Se tue, Se nós #sym.dots \
     Als ik, als jij, als wij #sym.dots
   - Mesmo que #sym.dots \
@@ -142,16 +144,11 @@ De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que
     En wat als we #sym.dots? En wat als je #sym.dots?
 
 
-As terminações do #pic são descritos em @imperfeito_conjuntivo_ends.
-
-Vorming van de #pic gebeurd op basis van de 3#super[de] persoon meervoud van de #ppsi.
-Vervang _-ram_ met de uiteinden beschreven in @imperfeito_conjuntivo_ends. 
-
 // https://portuguesepedia.com/portuguese-past-subjunctive/
-
-Bij _nós_ en _vós_ ligt de nadruk op de derde laatste lettergreep. 
-Hierdoor wordt er bij werkwoorden die eindigen op _-ar_, _-er_ en _-ir_ een accent toegevoegd op de 
-_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
+A formação do #pic é feita com base na 3#super[a] pessoa do plural do #ppsi. 
+Substitua _-ram_ pelas as terminações do #pic que são descritos em @imperfeito_conjuntivo_ends. 
+Em _nós_ en _vós_ , a ênfase (klemtoon,nadruk) está na 3#super[a] sílaba (lettergreep) final. Por isso, os verbos que terminam em _-ar_, _-er_ e _-ir_ adicionado um acento no 
+_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_ (@imperfeito_conjuntivo_ends, @imperfeito_conjuntivo_creation)
 
 #conjugation(
   verbs: ([-ar], [-er], [-ir]),
@@ -182,8 +179,9 @@ _a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_.
     [tu], [falasses], [bebesses], [partisses],
     [], [], [#align(center, sym.dots.v)], [],
     table.hline(),
-  )
-)
+  ),
+  caption: [A formação do #pic]
+) <imperfeito_conjuntivo_creation>
 
 #conjugation(
   verbs: ([falar], [beber], [partir]),
