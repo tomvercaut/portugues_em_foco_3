@@ -55,12 +55,24 @@
 
   set par(justify: true, linebreaks: "optimized")
 
+  // show ref: it => {
+  //   let el = it.element
+  //   if el != none {
+  //     link(el.location(), 
+  //     numbering(el.numbering, ..counter(eq).at(el.location()))
+  //     )
+  //   } else {
+  //     it
+  //   }
+  // }
+
   // Add a vertical space after headings
   show heading: it => {
     set text(style: "normal", weight: "bold", fill: color.linear-rgb(47,84,150))
     if it.level == 1 {
       pagebreak(weak: true)
     }
+    v(5%, weak: true)
     it
     v(2%, weak: true)
   }
