@@ -147,8 +147,14 @@ A oração subordinada contém o #pic. A oração principal e a oração subordi
 // https://portuguesepedia.com/portuguese-past-subjunctive/
 A formação do #pic é feita com base na 3#super[a] pessoa do plural do #ppsi. 
 Substitua _-ram_ pelas as terminações do #pic que são descritos em @imperfeito_conjuntivo_ends. 
-Em _nós_ en _vós_ , a ênfase (klemtoon,nadruk) está na 3#super[a] sílaba (lettergreep) final. Por isso, os verbos que terminam em _-ar_, _-er_ e _-ir_ adicionado um acento no 
-_a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_ (@imperfeito_conjuntivo_ends, @imperfeito_conjuntivo_creation)
+Em _nós_ en _vós_ , a ênfase (klemtoon,nadruk) está na 3#super[a] sílaba (lettergreep) final. 
+
+Os acentos:
+- #sym.acute: todos os verbos regulares terminado em _-ar_ e _-ir_.
+- #sym.hat: todos os verbos regulares terminado em _-er_
+- #sym.acute: todos os verbos irregulares (menos: ser, ir).
+- #sym.hat: os verbos ser, ir
+
 
 #conjugation(
   verbs: ([-ar], [-er], [-ir]),
@@ -189,8 +195,8 @@ _a_ #sym.arrow.r _á_, _e_ #sym.arrow.r _é_ en _i_ #sym.arrow.r _í_ (@imperfei
     eu:   ([falasse],    [bebesse],    [partisse]),
     tu:   ([falasses],   [bebesses],   [partisses]),
     ele:  ([falasse],    [bebesse],    [partisse]),
-    nos:  ([falássemos], [bebéssemos], [partíssemos]),
-    vos:  ([falásseis],  [bebésseis],  [partísseis]),
+    nos:  ([falássemos], [bebêssemos], [partíssemos]),
+    vos:  ([falásseis],  [bebêsseis],  [partísseis]),
     eles: ([falassem],   [bebessem],   [partissem]),
   ),
   caption: [#pic (verbos regulares)]
