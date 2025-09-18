@@ -44,5 +44,9 @@
   (
     key: "pic",
     short: "Pretérito Imperfeito do Conjuntivo"
+  ),
+  (
+    key: "fc",
+    short: "Futuro do Conjuntivo"
   )
 )

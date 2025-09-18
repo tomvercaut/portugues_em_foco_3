@@ -70,6 +70,7 @@
                 - ouderdom],
     [a ternura],[- tederheid
                  - vriendelijkheid],
+    [oxalá], [hopelijk],
   )
 )
 

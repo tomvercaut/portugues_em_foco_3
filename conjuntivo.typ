@@ -10,6 +10,7 @@
 #let pic = [_#gls("pic")_]
 #let pii = [_#gls("pii")_]
 #let cond = [_#gls("cond")_]
+#let fc = [_#gls("fc")_]
 
 O #presente_do_conjuntivo é usado nas frases dependentes de verbos que exprimem desejo (wens) / vontade (esperar, querer, preferir, pedir, agradecer), sentimento (lamentar, recear) ou dúvida (duvidar) introduzidas por _que_. O #presente_do_conjuntivo exprime se alguma coisa pode ou não pode acontecer no presente ou no futuro. Os sujeitos das frases principal e subordinada têm de ser diferentes:
 
@@ -214,6 +215,78 @@ Os acentos:
     vos:  ([fôsseis],  [estivésseis],  [désseis],  [fôsseis],  [fizésseis],  [tivésseis],  [trouxésseis]),
     eles: ([fossem],   [estivessem],   [dessem],   [fossem],   [fizessem],   [tivessem],   [trouxessem]),
   ),
-  caption: [#pic (verbos regulares)]
+  caption: [#pic (verbos irregulares)]
 )
 
+
+== Futuro do Conjuntivo
+
+// https://www.practiceportuguese.com/learning-notes/future-subjunctive/
+
+=== Formação
+
+A formação do #fc é feita com base na 3#super[a] pessoa do plural do #ppsi.
+Core a raiz (stam, root) (_am_) e ajunte as terminações (@futuro_conjuntivo_regulares).
+
+#conjugation(
+  verbs: ([-ar], [-er], [-ir]),
+  data: (
+    eu:   ([],     [],     []),
+    tu:   ([-es],  [-es],  [-es]),
+    ele:  ([],     [],     []),
+    nos:  ([-mos], [-mos], [-mos]),
+    vos:  ([-des], [-des], [-des]),
+    eles: ([-em],  [-em],  [-em]),
+  ),
+  caption: [As terminações do #fc (verbos regulares)],
+) <futuro_conjuntivo_ends>
+
+#conjugation(
+  verbs: ([falar], [beber], [partir]),
+  data: (
+    eu:   ([falar],    [beber],    [partir]),
+    tu:   ([falares],  [beberes],  [partires]),
+    ele:  ([falar],    [beber],    [partir]),
+    nos:  ([falarmos], [bebermos], [partirmos]),
+    vos:  ([falardes], [beberdes], [partirdes]),
+    eles: ([falarem],  [beberem],  [partirem]),
+  ),
+  caption: [As terminações do #fc (verbos regulares)],
+) <futuro_conjuntivo_regulares>
+
+#conjugation(
+  verbs: ([ser/ir], [dar], [ter]),
+  data: (
+    eu:   ([for],    [der],    [tiver]),
+    tu:   ([fores],  [deres],  [tiveres]),
+    ele:  ([for],    [der],    [tiver]),
+    nos:  ([formos], [dermos], [tivermos]),
+    vos:  ([fordes], [derdes], [tiverdes]),
+    eles: ([forem],  [derem],  [tiverem]),
+  ),
+  caption: [As terminações do #fc (verbos irregulares)],
+) <futuro_conjuntivo_irregulares>
+
+=== Emprego
+
+Usamos o #fc depois de determinadas conjunções (voegwoorden) / locuções (zinnen, uitdrukkingen) 
+para exprimir uma ação no futuro, uma eventualidade do futuro (#sym.arrow.l.r #pic):
+
+- quando: wannner
+- logo que: zodra
+- assim que: zodra
+- depois que: nadat
+- enquanto: zolang, terwijl
+- todas as vezes que: iedere keer dat
+- sempre que: steeds als
+
+- se: indien
+- como: zoals
+- conforme: zoals
+
+=== Exemplos
+
+- Assim que chegarem ao aeroporto, telefonem-me. \
+  Zodra jullie op de luchthaven aankomen, bel me.
+- Logo que me sentir melhor, vou trabalhar. \
+  Zodra ik me beter voel, zal ik gaan werken
