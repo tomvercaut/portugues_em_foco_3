@@ -290,3 +290,9 @@ para exprimir uma ação no futuro, uma eventualidade do futuro (#sym.arrow.l.r 
   Zodra jullie op de luchthaven aankomen, bel me.
 - Logo que me sentir melhor, vou trabalhar. \
   Zodra ik me beter voel, zal ik gaan werken
+- Enquanto estiveres com febre, não podes sair.
+- Tenciono escrever-lhes sempre que puder.
+- Todas as vezes que vier a Portugal, vou lembrar-me de vocês.
+- Quando forem 7:00, acorda-me.
+- Faz com quiseres.
+- Trate do assunto conforme achar melhor.
