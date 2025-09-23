@@ -20,6 +20,7 @@
 #register-glossary(entrylist)
 
 #include "unidade_00.typ"
+#include "unidade_01.typ"
 #include "conjuntivo.typ"
 
 = Glossário
