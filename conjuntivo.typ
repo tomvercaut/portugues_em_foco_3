@@ -77,14 +77,14 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
 
 
 #conjugation(
-  verbs: ([dar], [estar], [ir], [querer], [saber], [ser]),
+  verbs: ([dar], [estar], [ir], [querer], [saber], [ser], [dizer]),
   data: (
-    eu:   ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja]),
-    tu:   ([dês],   [estejas],   [vâs],   [queiras],   [saibas],   [sejas]),
-    ele:  ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja]),
-    nos:  ([demos], [estejamos], [vamos], [queiramos], [saibamos], [sejamos]),
-    vos:  ([deis],  [estejais],  [vades], [queireis],  [saibais],  [sejais]),
-    eles: ([dêem],  [estejam],   [vão],   [queiram],   [saibam],   [sejam]),
+    eu:   ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja],    [diga]),
+    tu:   ([dês],   [estejas],   [vâs],   [queiras],   [saibas],   [sejas],   [digas]),
+    ele:  ([dê],    [esteja],    [vâ],    [queira],    [saiba],    [seja],    [diga]),
+    nos:  ([demos], [estejamos], [vamos], [queiramos], [saibamos], [sejamos], [digamos]),
+    vos:  ([deis],  [estejais],  [vades], [queireis],  [saibais],  [sejais],  [digais]),
+    eles: ([dêem],  [estejam],   [vão],   [queiram],   [saibam],   [sejam],   [digam]),
   ),
   caption: [#presente_do_conjuntivo (verbos irregulares)],
 )
