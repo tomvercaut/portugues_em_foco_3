@@ -10,7 +10,7 @@
     [a caução], [waarborg],
     [Lusitania], [oude naam voor Portugal],
     [o lusófono], [Portugees sprekend],
-    [espalhar-se], [(zich) verspreiden],
+    [espalhar(-se)], [(zich) verspreiden],
     [a blogosfera], [espaço virtual ocupado pelos blogues],
     [a língua franca], [- uma ligação entre povos que não falam a mesma língua
                         - a língua falada por pessoas que não falam a mesma língua por exemplo: inglês, espanhol, francês, árabe, português],
@@ -25,7 +25,8 @@
                  - declarar],
     [cimentar], [- verankeren
                  - versterken],
-    [face a], [met betrekking tot]
+    [face a], [met betrekking tot],
+    [predestinar], [voorbestemmen],
   )
 )
 
