@@ -320,3 +320,26 @@ para exprimir uma ação no futuro, uma eventualidade do futuro (#sym.arrow.l.r 
   Doe wat je wilt.
 - Trate do assunto conforme achar melhor.\
   Behandel het onderwerp zoals u het best acht / denkt.
+
+==== Eventualidade
+
+- Se (eu - dar) _der_ como o número de telefone dele, vou logo telefonar.
+- Quando finalmente (tu - comprar) _comprares_ uma casa em Portugal, venho visitar-te.
+- Enquanto ele não (vir) _vier_ de comboio, nunca chegará em tempo.
+- Assim que (nós - partir) _partirmos_, avisaremos os vizinhos.
+- Se (vocês - ser) _forem_ a Lisboa, poderão ir visitar o António.
+- Cada vez que eles (estar) _estiverem_ de férias, vão convidar os amigos do Zé.
+- Se (beber) _beberes_, não conduzas!
+- Se (conduzir) _conduzires_, não bebas!
+- Faça o trabalho conforme (achar) _achar_ melhor.
+- Quando (eles - trazer) _trouxerem_ os livros, vamos poder começar.
+- Se não (trabalhar) _trabalhares_, nunca passarás!
+- Faz como (tu - querer) _quiseres_.
+- Se não (nós - conseguir) _conseguirmos_ convencê-lo, vamos ter que aceitar.
+- Quando (você - ver) _vir_ o Joaquim, diga-lhe que estou à  espera dele.
+- Se (nós - poder) _pudermos_, viremos à festa.
+- Assim que (eu - pôr) _puser_ tudo em ordem, ele estará muito contente.
+- Quando (haver) _houver_ um voo, vou a Portugal na semana que vem.
+- Quando (eles - acabar) _acabarem_ a tarefa, poderão sair.
+- Se (tu - ler) _leres_ este artigo, saberás tudo sobre o assunto.
+- Logo que (nós - ser) formos acostumados ao novo programa, tudo será bem mais facil.
