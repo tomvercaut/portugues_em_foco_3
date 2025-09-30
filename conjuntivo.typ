@@ -307,9 +307,16 @@ para exprimir uma ação no futuro, uma eventualidade do futuro (#sym.arrow.l.r 
   Zodra jullie op de luchthaven aankomen, bel me.
 - Logo que me sentir melhor, vou trabalhar. \
   Zodra ik me beter voel, zal ik gaan werken
-- Enquanto estiveres com febre, não podes sair.
-- Tenciono escrever-lhes sempre que puder.
-- Todas as vezes que vier a Portugal, vou lembrar-me de vocês.
-- Quando forem 7:00, acorda-me.
-- Faz com quiseres.
-- Trate do assunto conforme achar melhor.
+- Enquanto estiveres com febre, não podes sair.\
+  Zolang je koorts hebt, mag je niet weg / naar buiten.
+- Tenciono escrever-lhes sempre que puder.\
+  Ik ben van plan jullie altijd te schrijven als / wanneer ik kan.
+- Todas as vezes que vier a Portugal, vou lembrar-me de vocês.\
+  Elke keer ik naar Portugal ga/kom, zal ik aan jullie denken.
+- Quando forem 7:00, acorda-me.\
+  Wanneer het 7:00 is, maak me wakker.\
+  Maak me om 7:00 wakkker.
+- Faz com quiseres.\
+  Doe wat je wilt.
+- Trate do assunto conforme achar melhor.\
+  Behandel het onderwerp zoals u het best acht / denkt.

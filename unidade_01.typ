@@ -62,6 +62,9 @@
     [por], [door],
     [um(a) sortud(o/a)], [- een gelukzak
                           - alguém que tem sorte],
+    [tencionar], [- ter a intenção de
+                  - de intentie hebben
+                  - van plan zijn],
   )
 )
 
