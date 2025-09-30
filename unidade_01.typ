@@ -27,6 +27,41 @@
                  - versterken],
     [face a], [met betrekking tot],
     [predestinar], [voorbestemmen],
+    [tagarelar], [kletsen, tatteren],
+    [a tagarela], [een kletser],
+    [a faca], [een mes],
+    [o menor], [- een minderjarige
+                - uma pessoa que não atingiu maioridade],
+    [o golpe (físico)], [- de slag
+                         - de stoot],
+    [o golpe de faca], [een messteek],
+    [uma briga], [ruzie],
+    [três], [3],
+    [treze], [13],
+    [as finanças], [de financiën],
+    [ficar contente], [blij zijn],
+    [o som], [het geluid],
+    [válido], [geldig],
+    [o falante], [o locutor],
+    [espalhado], [disperso],
+    [face a], [perante (facing, confronting, in face of)],
+    [enunciar], [- exprimir (uitdrukken)
+                 - expor oralmente ou por escrito (mondeling of schriftelijk uitdrukken)],
+    [constatar], [- observar
+                  - constateren
+                  - observeren],
+    [cimentar], [- consolidar
+                 - consolideren
+                 - verankeren],
+    [esperto], [- slim
+                - sluw],
+    [perito], [especialista numa atividade],
+    [o interesse], [de interesse],
+    [interessar], [interessen],
+    [para], [voor],
+    [por], [door],
+    [um(a) sortud(o/a)], [- een gelukzak
+                          - alguém que tem sorte],
   )
 )
 

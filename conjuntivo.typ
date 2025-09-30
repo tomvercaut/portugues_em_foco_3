@@ -38,6 +38,8 @@ Exemplos:
   Ik hoop dat je wint \
   Ik hoop dat je zal winnen
 
+=== Formação
+
 As formas do #presente_do_conjuntivo regular formam-se a partir da 1.#super[a] pessoa do singular do #presente_do_indicativo (#emph(text(weight: "bold")[fal])#emph[o], 
   #emph(text(weight: "bold")[beb])#emph[o], 
   #emph(text(weight: "bold")[part])#emph[o], 
@@ -89,6 +91,21 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
   caption: [#presente_do_conjuntivo (verbos irregulares)],
 )
 
+// === Emprego
+//
+// - Depois expressões impessoais com o verbo no #presente_do_indicativo (na onpersoonlijke uitdrukkingen met het werkwoord in de #presente_do_indicativo)
+//   - mode geral (voor in het algemeen)
+//   - expressar uma ação eventual no futuro (mogelijke handling in de toekomst uit te drukken)
+//
+//   É importante que leias o livro.\
+//   #sym.arrow.r Het is belangrijk dat je het boek leest.
+//
+//   É bom que tu chegues a horas.\
+//   #sym.arrow.r Het is goed dat je op tijd komt
+//
+// - Depois conjunções e locuções (na voegwoorden en uitdrukkingen)
+//   - mode geral (voor in het algemeen)
+//   - expressar uma ação eventual no futuro (mogelijke handling in de toekomst uit te drukken)
 
 == Pretérito Imperfeito do Conjuntivo
 
