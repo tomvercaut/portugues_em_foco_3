@@ -91,3 +91,14 @@
     caption: caption
   )
 }
+
+// https://typst.app/docs/reference/introspection/counter/
+#let excounter = counter("exercise")
+#let exercise = block[
+  #excounter.step()
+  \
+  *Exercício #context excounter.display() *\
+]
+#let set_exercise_counter(c) = {
+  excounter.update(c)
+}

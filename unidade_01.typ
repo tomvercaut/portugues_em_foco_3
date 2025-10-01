@@ -1,4 +1,4 @@
-#import "./common.typ": vocab
+#import "./common.typ": vocab, exercise, set_exercise_counter
 
 = Unidade 1: Navegar é preciso
 == Vocabulário
@@ -24,9 +24,17 @@
                  - exprimir
                  - declarar],
     [cimentar], [- verankeren
-                 - versterken],
-    [face a], [met betrekking tot],
-    [predestinar], [voorbestemmen],
+                 - versterken
+                 - consolidar],
+    [cimentar o património político e humano], [het politiek en menselijk erfgoed versterken],
+    [o património], [- patrimonium
+                     - erfgoed],
+    [face a], [- met betrekking tot
+               - relacionada a 
+               - perante
+              ],
+    [predestinar], [- prever
+                    - voorbestemmen, voorspellen],
     [tagarelar], [kletsen, tatteren],
     [a tagarela], [een kletser],
     [a faca], [een mes],
@@ -42,7 +50,8 @@
     [ficar contente], [blij zijn],
     [o som], [het geluid],
     [válido], [geldig],
-    [o falante], [o locutor],
+    [o falante], [- pessoa que fala uma língua (materna)
+                  - o locutor],
     [espalhado], [disperso],
     [face a], [perante (facing, confronting, in face of)],
     [enunciar], [- exprimir (uitdrukken)
@@ -65,6 +74,53 @@
     [tencionar], [- ter a intenção de
                   - de intentie hebben
                   - van plan zijn],
+    [parte significativa], [parte mais importante],
+    [alcançar], [bereiken],
+    [facílimo], [muito fácil],
   )
 )
+
+== Exercícios
+
+#set_exercise_counter(1)
+
+#exercise
+
++ c
++ a
++ b
++ f
++ d
++ e
+
+#set_exercise_counter(4)
+
+#exercise
+
+- sete mil línguas
+- duzentas e vinte e cinco
+- dois terços
+- 250 milhões
+- maior número de falantes
+- língua ofical
+- potencialmente universais
+
+
+#exercise
+
++ Falsa \
+  A língua portuguesa é a quarta mais falada no mondo.
++ Verdadeiro
++ Verdadeiro
++ Verdadeiro
+
+#exercise
+
++ leiam
++ falemos
++ perca
++ venhas
++ facam
++ veja
++ ponha
 
