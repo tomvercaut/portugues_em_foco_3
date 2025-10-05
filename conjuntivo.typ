@@ -91,7 +91,99 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
   caption: [#presente_do_conjuntivo (verbos irregulares)],
 )
 
-// === Emprego
+=== Emprego
+
++ Na onpersoonlijke uitdrukkingen met een werkwoord in de #presente_do_indicativo:
+  
+  Hierbij kan verwezen worden naar de tegenwoordige tijd of naar de toekomst.
+  
+  - É possível que #sym.dots \
+    Het is mogelijk dat #sym.dots
+  - É bom que #sym.dots \
+    Het is goed dat #sym.dots
+  - É provável que #sym.dots \
+    Het is mogelijk dat #sym.dots
+  - É importante que #sym.dots \
+    Het is belangrijk dat #sym.dots
+  - É necessário que #sym.dots \
+    Het is noodzakelijk dat #sym.dots
+  - É preciso que #sym.dots \
+    Het is nodig dat #sym.dots
+  - É melhor que #sym.dots \
+    Het is beter dat #sym.dots
+  - Basta que #sym.dots \
+    Het volstaat dat #sym.dots
+  - É suficiente que #sym.dots \
+    Het is voldoende dat #sym.dots
+  - Convém que #sym.dots \
+    Het is raadzaam dat #sym.dots
+  - É conveniente que #sym.dots \
+    Het is wenselijk / convinient dat #sym.dots
+
++ Voegwoorden en uitdrukkingen
+
+  #table(
+    columns: (auto, auto),
+    stroke: none,
+    table.cell(colspan: 2, [_Concessies: verwijst naar een feit dat de uitvoering van de handeling in de hoofdzin zou kunnen tegenwerken._]),
+    table.hline(),
+    [embora (hoewel, although)], table.cell(rowspan: 5, align(horizon, [#sym.plus #presente_do_conjuntivo])),
+    [mesmo que (zelfs als)], 
+    [ainda que (hoewel)],
+    [se bem que (hoewel)],
+    [nem que (zelfs als)],
+    table.hline(),
+    [], [], 
+    table.hline(),
+    table.cell(colspan: 2, [_Voorwaardelijk: verwijst nar een hypothese of conditie die afhanelijk is van een actie in die hoofdzin._]),
+    table.hline(),
+    [caso (indien)], table.cell(rowspan: 5, align(horizon, [#sym.plus #presente_do_conjuntivo])),
+    [sem que (zonder dat)], 
+    [desde que (zolang)],
+    [a menos que (tenzij)],
+    [a não ser que (tenzij)],
+    table.hline(),
+    [], [], 
+    table.hline(),
+    table.cell(colspan: 2, [_Finale bijzinnen: geven het doel aan van de hoofdzin._]),
+    table.hline(),
+    [para que (zodat, opdat)], table.cell(rowspan: 2, align(horizon, [#sym.plus #presente_do_conjuntivo])),
+    [a fim de que (zodat, opdat)], 
+    table.hline(),
+    )
+
++ De #presente_do_conjuntivo wordt gebruikt in zinnen die acties uitdrukken (eventueel in de toekomst) in zinnen met het voegwoord _que_. Het werkwoord dat _que_ voorafgaat drukt een _wens_, _commando_, _bevel_, _twijfel_ of _gevoel_ uit in de #presente_do_indicativo.
+
+  #table(
+    columns: (auto, auto, auto, auto),
+    stroke: none,
+    table.hline(),
+    table.header([], [ #presente_do_indicativo ], [], []),
+    table.hline(),
+    table.cell(rowspan: 14, align(horizon, [_verbos_])), [agradecer (bedanken)], table.cell(rowspan: 17, align(horizon, [_*que*_])), table.cell(rowspan: 17, align(horizon, [#sym.plus #presente_do_conjuntivo])), 
+    [desejar (verlangen, wensen, begeren)],
+    [duvidar (twijfelen)],
+    [esperar (wachten)],
+    [exigir (eisen)],
+    [gostar (leuk vinden, houden van)],
+    [lamentar (beklagen, spijt hebben van)],
+    [pedir (vragen, bestellen)],
+    [preferir (verkiezen)],
+    [proibir (verbieden)],
+    [querer (willen)],
+    [recear (vrezen, schrik hebben)],
+    [sentir (voelen)],
+    [sugerir (sugereren)],
+
+    table.hline(),
+  
+    table.cell(rowspan: 3, align(horizon, [_expressões_])), [ter dúvidas (twijfels hebben)], 
+    [ter medo (schrik hebben)], 
+    [ter pena (medelijden hebben)], 
+    table.hline(),
+  )
+
+
 //
 // - Depois expressões impessoais com o verbo no #presente_do_indicativo (na onpersoonlijke uitdrukkingen met het werkwoord in de #presente_do_indicativo)
 //   - mode geral (voor in het algemeen)
