@@ -179,7 +179,8 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
   
     table.cell(rowspan: 3, align(horizon, [_expressões_])), [ter dúvidas (twijfels hebben)], 
     [ter medo (schrik hebben)], 
-    [ter pena (medelijden hebben)], 
+    [ter pena \
+     (spijtig vinden, jammer vinden, medelijden hebben)], 
     table.hline(),
   )
 
