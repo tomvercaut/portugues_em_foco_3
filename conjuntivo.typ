@@ -184,21 +184,58 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
     table.hline(),
   )
 
++ Zinnen die twijfel uitdrukken of roepzinnen.
+  - De #presente_do_conjuntivo wordt gebruikt na het bijwoord _talvez_ in zinnen waarin twijfel of probabiliteit uitgedrukt wordt.
+  
+    - Ele faltou ao trabalho. Talvez esteja doente.\
+      Hij was afwijzig op het werk. Misschien is hij ziek.
 
-//
-// - Depois expressões impessoais com o verbo no #presente_do_indicativo (na onpersoonlijke uitdrukkingen met het werkwoord in de #presente_do_indicativo)
-//   - mode geral (voor in het algemeen)
-//   - expressar uma ação eventual no futuro (mogelijke handling in de toekomst uit te drukken)
-//
-//   É importante que leias o livro.\
-//   #sym.arrow.r Het is belangrijk dat je het boek leest.
-//
-//   É bom que tu chegues a horas.\
-//   #sym.arrow.r Het is goed dat je op tijd komt
-//
-// - Depois conjunções e locuções (na voegwoorden en uitdrukkingen)
-//   - mode geral (voor in het algemeen)
-//   - expressar uma ação eventual no futuro (mogelijke handling in de toekomst uit te drukken)
+  - We gebruiken de #presente_do_conjuntivo voorafgegaan door bepaalde voegwoorden en uitdrukkingen, in uitroepende zinnen om een wens uit te drukken.
+    
+    #table(
+      columns: (auto, auto),
+      stroke: none,
+      table.hline(),
+      table.header(table.cell(colspan: 2, [Exclamativas de desejo])),
+      table.hline(),
+      [Oxalá (hopelijk, als god het wil)], table.cell(rowspan: 4, align(horizon, [#sym.plus #presente_do_conjuntivo])),
+      [Tomara que (hopelijk)],
+      [Deus queira que (god wil dat zo)],
+      [Quem me dera que (Ik wou dat)],
+      table.hline(),
+    )
+
++ Uitdrukkingen met _por mais que_, _por muito que_, _por pouco que_, #sym.dots vragen een werkwoord in de _conjuntivo_. De bijzin wordt uitgedrukt op een overdreven manier en duidt een tegestelling of beperking aan ten opzichte van de hoofdzin.
+  
+  #vocab(
+    rows: 
+    (
+      [por mais que], [- hoe dan ook 
+                      - hoezeer dan ook],
+      [por muito que], [hoezeer ook],
+      [por pouco que], [- hoe weinig ook 
+                        - druk een minimale hoeveelheid uit
+                        - No matter how little #sym.dots 
+                        - Even if #sym.dots
+                        - As little as #sym.dots
+                        ],
+    )
+  )
+
+  Er zijn ook verschillende combinaties mogelijk met bijwoorden en adjectieven:
+
+  - por + advérbio + que + #presente_do_conjuntivo \
+    Por pouco que ele estude, aprende alguma coisa. \
+    Hoe weinig hij ook studeert, hij leert iets.
+    
+  - por + advérbio/adjectivo (superlatief) + que + #presente_do_conjuntivo \
+    Por muito tarde que chegue, telefono-te. \
+    Hoe laat ik ook toekom, ik bel je.
+    
+  - por + advérbio/adjectivo + nome + que + #presente_do_conjuntivo \
+    Por mais dinheiro que ofereças, não vendo o meu carro. \
+    Hoeveel geld je me ook aanbied, ik verkoop mijn auto niet.
+  
 
 == Pretérito Imperfeito do Conjuntivo
 
