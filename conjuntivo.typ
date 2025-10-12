@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, conjugation, tbl_hdr_color
+#import "./common.typ": vocab, conjugation, tbl_hdr_color, line_stroke
 #import "@preview/glossarium:0.5.9": gls
 
 = Conjuntivo
@@ -6,6 +6,7 @@
 
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
+#let modo_imp = [_#gls("modo-imp")_]
 #let ppsi = [_#gls("ppsi")_]
 #let pic = [_#gls("pic")_]
 #let pii = [_#gls("pii")_]
@@ -236,6 +237,53 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
     Por mais dinheiro que ofereças, não vendo o meu carro. \
     Hoeveel geld je me ook aanbied, ik verkoop mijn auto niet.
   
++ orações relativas (betrekkelijke bijzinnen)
+  
+  De #presente_do_conjuntivo wordt gebruikt in betrekkelijke bijzinnen die vooraf gegaan worden door een onbepaald of ongedefinieerd onderwerp. 
+  De hoofdzin heeft een werkwoord in de #presente_do_indicativo of #modo_imp gevolgd door een betreffend voegwoord _que_ en een werkwoord in de #presente_do_conjuntivo.
+
+
+  #presente_do_indicativo + onbepaald onderwerp + _que_ + #presente_do_conjuntivo
+  
+  - Preciso um produto que _tire_ as manchas.
+  - Passa-me a pimenta que _esteja_ ali em cima da mesa.
+
++ De #presente_do_conjuntivo wordt gebruikt in uitdrukkingen na: _onde quer que_, _quem quer que_, _o que quer que_, #sym.dots en _quer_ #sym.dots _quer_. 
+
+  #table(
+    columns: (auto, auto, auto, auto),
+    stroke: none,
+    table.hline(),
+    [Quem, a quem, de quem], table.vline(start: 0, end: 4, stroke: line_stroke), table.cell(rowspan: 4, align(horizon, [quer])), table.vline(stroke: line_stroke), table.cell(rowspan: 6, align(horizon, [que])), table.vline(stroke: line_stroke), table.cell(rowspan: 6, align(horizon, [#presente_do_conjuntivo])),
+    [Onde, por onde, para onde],
+    [O que],
+    [Quando],
+
+    table.hline(start: 0, end: 2, stroke: line_stroke),
+
+    table.cell(colspan: 2, [Qualquer]),
+    table.cell(colspan: 2, [Quaisquer]),
+
+    table.hline(),
+  )
+
+
+  - Quem quer que venha, será bem recebido.
+
+    Wie ook komt, zal goed/hartelijk ontvangen worden.
+  
+
+
+  #table(
+    columns: (auto, auto, auto, auto),
+    stroke: none,
+    table.hline(),
+    [Quer], [#presente_do_conjuntivo], [quer], [#presente_do_conjuntivo \
+                                                  ou \ 
+                                                  não 
+                                                ],
+    table.hline(),
+  )
 
 == Pretérito Imperfeito do Conjuntivo
 

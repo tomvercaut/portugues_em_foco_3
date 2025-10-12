@@ -1,4 +1,5 @@
 #let tbl_hdr_color = color.linear-rgb(47,84,150)
+#let line_stroke = (paint: silver, thickness: 0.5pt)
 
 #let vocab(rows: ()) = {
   table(
