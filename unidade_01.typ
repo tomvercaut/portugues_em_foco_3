@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
+#import "./common.typ": vocab, exercise, set_exercise_counter, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
 
 = Unidade 1: Navegar é preciso
 == Vocabulário
@@ -246,7 +246,24 @@
 
 == Exercícios no papel
 
-*Exercício de frase concessivas: #presente_do_indicativo + #fc ligado por quem, quando, onde, o/a que, como, quanto. (p11-12)*
+
+#exercise_no_number([O uso do #presente_do_conjuntivo e #fc em oraçães concessivas com repetição do verbo. (p9))])
+
++ disseres
++ Venha
++ for
++ Fale
++ Cheguem
++ trouxeres
+
++ Vista o que vestir, tudo lhe fica bem.
++ Estejas onde estiveres, vou ter contigo.
++ Digas o que disseres, tens sempre razão.
++ Seja para of que for, podem contar comigo.
++ Vás por onde fores, há sempre muito trânsito.
+
+
+#exercise_no_number([Exercício de frase concessivas: #presente_do_indicativo + #fc ligado por quem, quando, onde, o/a que, como, quanto. (p11-12)])
 
 + venha quem vier
 + seja quando for

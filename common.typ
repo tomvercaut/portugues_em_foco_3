@@ -105,6 +105,10 @@
 #let set_exercise_counter(c) = {
   excounter.update(c)
 }
+#let exercise_no_number(desc) = block[
+  \
+  *#desc *\
+]
 
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
