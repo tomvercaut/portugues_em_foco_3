@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter
+#import "./common.typ": vocab, exercise, set_exercise_counter, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
 
 = Unidade 1: Navegar é preciso
 == Vocabulário
@@ -242,3 +242,46 @@
 + saibam
 + visito
 + sejam
+
+
+== Exercícios no papel
+
+*Exercício de frase concessivas: #presente_do_indicativo + #fc ligado por quem, quando, onde, o/a que, como, quanto. (p11-12)*
+
++ venha quem vier
++ seja quando for
++ esteja onde estiver
++ ponhas onde puseres
++ aconteça o que acontecer
++ faças como fizeres (wat je ook doet)
++ Diga o médico o que disser (wat de dokter ook zegt)
++ esteja o que estiver
++ Sejam #sym.dots foram \
+  Cheguem #sym.dots chegarem
++ Custe quento custar
++ Vá eu para onde for
++ Tenha ele o que tiver
++ Dê-lhe o que lhe der
++ Queira o que quiser
++ Veja ele que filme vir
++ tragas o que trouxeres
++ seja onde for
++ veja em que canal vir \
+  esteja em que canal estiver
++ Traga quantas trouxer
++ Ouçam-na quando a ouvirem \
+  Saibem-na quando a souberem
++ venha quem vier \
+  seja quem for \
+  esteja quem estiver
++ digam o que disserem
++ vejas o que vires
++ Esteja o tempo como estiver
++ venha quem vier
++ coma o que comer \
+  faça o que fizer
++ tenha quem tiver (wie het ook heeft)
++ Vá eu onde for (waarheen hij ook gaat)
++ faça quando fizer
++ jogue contra quem jogar
+

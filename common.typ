@@ -1,3 +1,5 @@
+#import "@preview/glossarium:0.5.9": gls
+
 #let tbl_hdr_color = color.linear-rgb(47,84,150)
 #let line_stroke = (paint: silver, thickness: 0.5pt)
 
@@ -103,3 +105,14 @@
 #let set_exercise_counter(c) = {
   excounter.update(c)
 }
+
+#let presente_do_conjuntivo = [_#gls("pres-conj")_]
+#let presente_do_indicativo = [_#gls("pres-ind")_]
+#let modo_imp = [_#gls("modo-imp")_]
+#let ppsi = [_#gls("ppsi")_]
+#let pic = [_#gls("pic")_]
+#let pii = [_#gls("pii")_]
+#let cond = [_#gls("cond")_]
+#let fc = [_#gls("fc")_]
+
+

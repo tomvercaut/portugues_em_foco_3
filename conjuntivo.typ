@@ -1,17 +1,9 @@
-#import "./common.typ": vocab, conjugation, tbl_hdr_color, line_stroke
+#import "./common.typ": vocab, conjugation, tbl_hdr_color, line_stroke, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
 #import "@preview/glossarium:0.5.9": gls
 
 = Conjuntivo
 == Presente do Conjuntivo
 
-#let presente_do_conjuntivo = [_#gls("pres-conj")_]
-#let presente_do_indicativo = [_#gls("pres-ind")_]
-#let modo_imp = [_#gls("modo-imp")_]
-#let ppsi = [_#gls("ppsi")_]
-#let pic = [_#gls("pic")_]
-#let pii = [_#gls("pii")_]
-#let cond = [_#gls("cond")_]
-#let fc = [_#gls("fc")_]
 
 O #presente_do_conjuntivo é usado nas frases dependentes de verbos que exprimem desejo (wens) / vontade (esperar, querer, preferir, pedir, agradecer), sentimento (lamentar, recear) ou dúvida (duvidar) introduzidas por _que_. O #presente_do_conjuntivo exprime se alguma coisa pode ou não pode acontecer no presente ou no futuro. Os sujeitos das frases principal e subordinada têm de ser diferentes:
 
