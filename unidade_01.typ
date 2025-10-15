@@ -77,6 +77,29 @@
     [parte significativa], [parte mais importante],
     [alcançar], [bereiken],
     [facílimo], [muito fácil],
+    [o voto], [de stemming],
+    [proteger], [beschermen],
+    [a maioria], [de meerderheid],
+    [autoimune], [auto-immuun],
+    [destruir], [vernielen],
+    [o órgão], [het orgaan],
+    [inibir], [inhibiteren],
+    [atrapalhar], [- verwarren, to mix up
+                   - in verlegenheid brengen (to embarrass)
+                   - to ongemak zijn (to inconvenience)],
+    [se atrapalhar], [- verward worden (to become confused)
+                      - verlegen voelen (to feel embarrassed)
+                      - zenuwachtig worden (to get nervous)],
+    [o crananio], [de schedel],
+    [caber], [passen in],
+    [o orçamento], [- offerte
+                    - begroting],
+    [a propina], [schoolgeld],
+    [imprescindivel], [- onmisbaar
+                       - indespensable],
+    [a lesma], [de slak],
+    [o caracol], [de slak],
+    [desmaiar], [flauwvallen],
   )
 )
 
