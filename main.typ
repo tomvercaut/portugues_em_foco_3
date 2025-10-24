@@ -21,6 +21,7 @@
 
 #include "unidade_00.typ"
 #include "unidade_01.typ"
+#include "unidade_02.typ"
 #include "conjuntivo.typ"
 #include "preposicoes.typ"
 
