@@ -102,6 +102,9 @@
   \
   *Exercício #context excounter.display() *\
 ]
+#let skip_exercise = {
+  excounter.step()
+}
 #let set_exercise_counter(c) = {
   excounter.update(c)
 }
