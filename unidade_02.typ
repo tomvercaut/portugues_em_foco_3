@@ -101,6 +101,26 @@
     [deslumbrante], [- betoverend
                      - oogverblindend
                      - schitterend],
+    [comportar-se], [zich gedragen],
+    [a ânfora], [kruik gemaakt in klei (meestal met 2 handvaten)],
+    [o/a pioneiro/a], [pionieer],
+    [busca], [afgeleid van buscar (zoeken)],
+    [o tesouro], [de schat],
+    [escondido], [verborgen],
+    [a máscara], [masker],
+    [as barbatanas], [zwemvliezen],
+    [o tubo], [- tube
+               - snorkel],
+    [aguentar], [- to support
+                 - to endure (volhouden)],
+    [], [],
+    [], [],
+    [], [],
+    [], [],
+    [], [],
+    [], [],
+    [], [],
+    [], [],
     [], [],
     [], [],
   )
@@ -173,3 +193,18 @@ Eu conheço um país que é lider mundial na produção de cervejas. Em 2015, um
 Eu conheço um país que consegue funcionar 541 dias sem governo depois as eleições. Este país pulverizou o recorde do Camboja e do Iraque. O recorde é reconhecido até hoje pelo Guinness World Records.
 
 Este país conhecido por todos é: a Belgíca.
+
+#exercise
+
++ fumem
++ tragam
++ venhas
++ se lembre
++ consiguas
++ fiquem
++ ponha
++ estejam
++ se comportem
++ saibam
+
+
