@@ -113,16 +113,52 @@
                - snorkel],
     [aguentar], [- to support
                  - to endure (volhouden)],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
-    [], [],
+    [o ar comprimido], [perslucht],
+    [licenciar-se], [- behalen van een diploma
+                     - to graduate
+                     - to get a degree
+                   ],
+    [a arqueologia], [archologie],
+    [a ex-colónia], [ex-kolonie],
+    [subaquática], [onderwater],
+    [a relíquia], [relikwie],
+    [marcar], [markeren],
+    [a coleção], [de collectie],
+    [espantoso], [verbazingwekkend],
+    [o lodo], [het slib],
+    [aterrar], [landen],
+    [o tato], [- fysiologisch \
+                  tasten, voelen, to touch
+               - diplomatisch, tactvol
+                 ],
+    [pelo tato], [by touch],
+    [tátil], [- tactiel
+              - tastbaar],
+    [o caco], [- een gebroken stuk
+               - scherven],
+    [o paraíso], [het paradijs],
+    [a estrutura], [de structuur],
+    [o marasmo], [- apathie
+                  - lethargie],
+    [esmorecer], [- verzwakken 
+                  - verwelken
+                  - opgeven],
+    [lutar], [vechten \
+              (letterlijk & figuurlijk)],
+    [sobrevoar], [overvliegen],
+    [o remate], [- afwerking
+                 - conclusie
+                 - finishing touch
+                 - voetbalschot
+                ],
+    [rematar], [- afwerken
+                - to finish off
+                - to round off
+                - schieten (bv. in sport)],
+    [a barreira], [- de barriere
+                   - de goal, het doel],
+    [maias floridas], [bloeiende bloemen],
+    // [], [],
   )
 )
 
@@ -207,4 +243,56 @@ Este país conhecido por todos é: a Belgíca.
 + se comportem
 + saibam
 
+#exercise
 
+#table(
+  columns: (auto, 1fr, 1fr, 1fr),
+  stroke: none,
+  table.hline(),
+  table.header([], [Nome], [Adjectivo], [Verbo]),
+  table.hline(),
+  [1.], [o tato],              underline[_tátil_],  [tocar],
+  [2.], [a participação],      [participante],      underline[_participar_],
+  [3.], underline[_a emoção_], [emocionado],        [emocionar],
+  [4.], [o gelo],              underline[_gélido_], [gelar],
+  [5.], [a paciência],         [paciente],          underline[_pacientar_],
+  table.hline(),
+)
+
+#exercise
+
++ aguenta
++ pioneiro
++ integra
++ sotaque
++ esmorecem
++ reliquias
++ se assume
+
+#skip_exercise
+
+#exercise
+
++ marcar um livre
++ posicionamos os pés
++ sobrevoa a barreira
++ golos
++ 105 km/h
++ remata
++ efeito em arco
+
+#exercise
+
++ Na noite de 30 de abril para 1 de maio.
++ Pessoas colocavam maias floridas em frente das janelas e das portas. 
++ 1385 
++ Juntámos os animais domesticos para proteção contra os maus espiritos. A tradição tem origem em festas pagãs. Também celebrava a primavera e a fertilidade da terra. Pretendia afastar das pessoas, dos animais perigosos e o azar.
+
+#exercise
+
++ tens
++ faça
++ haja
++ existe
++ existam
++ seja
