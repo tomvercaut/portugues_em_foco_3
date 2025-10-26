@@ -1,0 +1,131 @@
+#import "../common.typ": vocab, conjugation, tbl_hdr_color, line_stroke, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
+#import "@preview/glossarium:0.5.9": gls
+
+
+== Pretérito Imperfeito do Conjuntivo
+
+O #pic é usado principalmente em orações subordinadas (bijzinnen) para expressar hipóteses, desejos, incertezas ou discurso indireto relacionados com o passado. É frequentemente usado com certas expressões ou verbos na oração principal.
+
+Deve usar o pretérito imperfeito do conjuntivo quando:
++ A oração principal está no passado e a oração subordinada requer (vereist) o subjuntivo (devido a dúvida, emoção, desejo, etc.)
+  Exemplo:\
+  - Ela queria que tu vieses.\
+    #sym.arrow.r Zij wilde dat je zou komen. \
+    #sym.arrow.double "Queria" is een indicatie voor de conjuntivo te gebruiken. Daarnaast wordt het werkwoord gebruikt in de verleden tijd. Vieses duidt een verlangen aan, waarvan het niet zeker is dat het werkelijkheid wordt/werd.
+
++ Na voegwoorden die de conjuntivo vereisen, en als het werkwoord in de hoofdzin in de verleden tijd staat:
+  - Se ele souvesse, teria ajudado.\
+    #sym.arrow.r Als hij het had geweten, zou hij geholpen hebben.
+  - Ela agiu como se não me conhecesse.\
+    #sym.arrow.r Ze deed alsof ze me niet kende.
+
++ In voorwaardelijke / conditionele zinnen - vooral in situaties die in strijd zijn met de feiten in het verleden. *Se* + #pic #sym.arrow.r voorwaardelijk / conditioneel
+  - Se eu tivesse dinheiro, comprava um carro. \
+    #sym.arrow.r Als ik geld had, zou ik een auto kopen.
+
++ Bij indirecte rede, wanneer het rapporterende werkwoord in het verleden staat.
+  - Ele disse que queira que eu fosse com ele. \
+    #sym.arrow.r Hij zei dat hij wilde dat ik met hem meeging.
+
+A oração principal geralmente está no #pii ou no #cond:
+// _(De hoofdzin staat meestal in de #pii of in de #cond)_:
+  - Eu faria isso se #sym.dots \
+    #sym.arrow.r Ik zou dat doen als #sym.dots
+  - Gostava que #sym.dots \
+    #sym.arrow.r  Ik zou graag #sym.dots
+  - Eu esperava que #sym.dots \
+    #sym.arrow.r Ik verwachte dat 
+    #sym.arrow.r Ik hoopte dat #sym.dots
+  - Pensei que #sym.dots \ 
+    #sym.arrow.r Ik dacht dat #sym.dots
+  - Seria bom que #sym.dots \
+    #sym.arrow.r Het zou goed zijn als #sym.dots
+  - O que fazias se #sym.dots \
+    #sym.arrow.r Wat zou jij doen als #sym.dots
+
+A oração subordinada contém o #pic. A oração principal e a oração subordinada são ligadas por _que_:
+// (_De bijzijn bevat dan de #pic. De hoofdzin en de bijzin worden verbonden met _que_ _). 
+  - Se eu, Se tue, Se nós #sym.dots \
+    Als ik, als jij, als wij #sym.dots
+  - Mesmo que #sym.dots \
+    Zelfs als #sym.dots
+  - Como se #sym.dots \
+    Alsof #sym.dots
+  - Talvez #sym.dots \
+    Misschien #sym.dots
+  - E se nós #sym.dots?, E se tu #sym.dots? \
+    En wat als we #sym.dots? En wat als je #sym.dots?
+
+
+// https://portuguesepedia.com/portuguese-past-subjunctive/
+A formação do #pic é feita com base na 3#super[a] pessoa do plural do #ppsi. 
+Substitua _-ram_ pelas as terminações do #pic que são descritos em @imperfeito_conjuntivo_ends. 
+Em _nós_ en _vós_ , a ênfase (klemtoon,nadruk) está na 3#super[a] sílaba (lettergreep) final. 
+
+Os acentos:
+- #sym.acute: todos os verbos regulares terminado em _-ar_ e _-ir_.
+- #sym.hat: todos os verbos regulares terminado em _-er_
+- #sym.acute: todos os verbos irregulares (menos: ser, ir).
+- #sym.hat: os verbos ser, ir
+
+
+#conjugation(
+  verbs: ([-ar], [-er], [-ir]),
+  data: (
+    eu:   ([-sse],    [-sse],    [-sse]),
+    tu:   ([-sses],   [-sses],   [-sses]),
+    ele:  ([-sse],    [-sse],    [-sse]),
+    nos:  ([-ssemos], [-ssemos], [-ssemos]),
+    vos:  ([-sseis],  [-sseis],  [-sseis]),
+    eles: ([-ssem],   [-ssem],   [-ssem]),
+  ),
+  caption: [As terminações do #pic (verbos regulares)],
+) <imperfeito_conjuntivo_ends>
+
+#figure(
+  table(
+    columns: (auto, auto, auto, auto),
+    stroke: none,
+    align: (right, left, left, left),
+    table.hline(),
+    table.header([], text(fill: tbl_hdr_color, weight: "bold")[falar], text(fill: tbl_hdr_color, weight: "bold")[beber], text(fill: tbl_hdr_color, weight: "bold")[partir]),
+    table.hline(),
+    [3#super[a] _pl._ #ppsi], [falaram], [beberam], [partiram],
+    [], [], [#align(center, sym.arrow.b)], [],
+    [], [fala-], [bebe-], [parti-],
+    [], [], [#align(center, sym.arrow.b)], [],
+    [eu], [falasse], [bebesse], [partisse],
+    [tu], [falasses], [bebesses], [partisses],
+    [], [], [#align(center, sym.dots.v)], [],
+    table.hline(),
+  ),
+  caption: [A formação do #pic]
+) <imperfeito_conjuntivo_creation>
+
+#conjugation(
+  verbs: ([falar], [beber], [partir]),
+  data: (
+    eu:   ([falasse],    [bebesse],    [partisse]),
+    tu:   ([falasses],   [bebesses],   [partisses]),
+    ele:  ([falasse],    [bebesse],    [partisse]),
+    nos:  ([falássemos], [bebêssemos], [partíssemos]),
+    vos:  ([falásseis],  [bebêsseis],  [partísseis]),
+    eles: ([falassem],   [bebessem],   [partissem]),
+  ),
+  caption: [#pic (verbos regulares)]
+)
+
+// https://www.practiceportuguese.com/learning-notes/imperfect-subjunctive/
+
+#conjugation(
+  verbs: ([ser], [estar], [dar], [ir], [fazer], [ter], [trazer]),
+  data: (
+    eu:   ([fosse],    [estivesse],    [desse],    [fosse],    [fizesse],    [tivesse],    [trouxesse]),
+    tu:   ([fosses],   [estivesses],   [desses],   [fosses],   [fizesses],   [tivesses],   [trouxesses]),
+    ele:  ([fosse],    [estivesse],    [desse],    [fosse],    [fizesse],    [tivesse],    [trouxesse]),
+    nos:  ([fôssemos], [estivéssemos], [déssemos], [fôssemos], [fizéssemos], [tivéssemos], [trouxéssemos]),
+    vos:  ([fôsseis],  [estivésseis],  [désseis],  [fôsseis],  [fizésseis],  [tivésseis],  [trouxésseis]),
+    eles: ([fossem],   [estivessem],   [dessem],   [fossem],   [fizessem],   [tivessem],   [trouxessem]),
+  ),
+  caption: [#pic (verbos irregulares)]
+)
