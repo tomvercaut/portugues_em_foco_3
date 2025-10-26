@@ -115,6 +115,8 @@
 
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
+#let modo_ind = [_#gls("modo-ind")_]
+#let modo_conj = [_#gls("modo-conj")_]
 #let modo_imp = [_#gls("modo-imp")_]
 #let ppsi = [_#gls("ppsi")_]
 #let pic = [_#gls("pic")_]

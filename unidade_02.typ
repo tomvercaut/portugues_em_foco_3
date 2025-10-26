@@ -158,6 +158,52 @@
     [a barreira], [- de barriere
                    - de goal, het doel],
     [maias floridas], [bloeiende bloemen],
+    [a raposa], [de vos],
+    [remontar], [- teruggaan tot (tijd)
+                 - to date back to (time)
+                 - terug gaan naar \
+                   (herinnering / geheugen) 
+                 - terug ophoog gaan
+                 - terug beklimmen
+               ],
+    [remontar-se], [- teruggaan tot (tijd) 
+                    - refereren naar
+                    ],
+    [devido], [- due (iets dat verdiend is) \
+                 com o devido respeito \              
+                 (with all due respect)
+               - due, proper (passend)\
+                 na devida altura \
+                 (op het juiste / gepaste moment) \
+                 (in due course)
+               - não analisou o texto com a devida atenção \
+                 (hij analyseerde het document niet met de nodige aandacht)
+              ],
+    [o/a vinhateiro/a], [- wijnbouwer
+                         - wijnboer(in)],
+    [a região demarcada], [Regio die beschermt is voor de productie van bijvoorbeeld porto of champagne. 
+                           Porto kan hierdoor enkel geproduceerd worden in de regio van Porto en de Douro.],
+    [o(s) socalcos], [terras(sen) op heuvels of bergen voor landbouw of agricultuur],
+    [o xisto], [lijsteen],
+    [o solo], [- de bodem 
+               - de grond],
+    [a robustez], [robustheid],
+    [a videira], [de wijnstok (the vine)],
+    [o teor], [- de inhoud
+               - de concentratie
+               - het niveau],
+    [envelhecer], [ouder worden],
+    [pertencer], [behoren],
+    [atribuir], [toewijzen (to attribute)],
+    [obter], [- behalen (slagen in iets)
+              - behalen (als in iets krijgen/bemachtigen)
+              - winnen
+            ],
+    [achatado], [flattend, afgevlakt],
+    [redondo], [rond],
+    [a banha], [vet, reuzel],
+    [o colorau ou \
+     urucum], [uma especiaria em forma de pó e na cor vermelha],
     // [], [],
   )
 )
@@ -296,3 +342,16 @@ Este país conhecido por todos é: a Belgíca.
 + existe
 + existam
 + seja
+
+#skip_exercise
+
+#exercise
+
++ Em Geraardsbergen as paderias produzem 'mattentaarten'. Este produto é reconhecido e protegido pela União Europeia deste 2007. 
++ A origem da tarte não é bem conhecida mas remonta à Idade Média. O nome 'matten' é ligado ao tipo de leite que é usado no receito. O sabor do leite depende do solo onde as vacas comem na região de Geraardsbergen. Os ingredientes utilizados na receita da tarte são dois tipos de leite, açúcar, ovos e amêndoas.
++ Ja provei vinho do Porto muitas vezes. O meus sogros produzem o seu próprio vinho tinto em casa. 
+  
+  Bolo do Caco é um pão redondo e achatado que normalmente é comido quente e barrado com manteiga de alho.
+
+  Alheira de Mirandela é um tipo de salsichas enchidas. Os ingredientes são carne de porco de raça Bisara, carne de ave, pão regional, banha de porco, azeite, alho, colorau e sal.
+

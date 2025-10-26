@@ -1,4 +1,4 @@
-#import "../common.typ": vocab, conjugation, tbl_hdr_color, line_stroke, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
+#import "../common.typ": vocab, conjugation, tbl_hdr_color, line_stroke, presente_do_conjuntivo, presente_do_indicativo, modo_ind, modo_conj, modo_imp, ppsi, pic, pii, cond, fc
 #import "@preview/glossarium:0.5.9": gls
 
 == Presente do Conjuntivo
@@ -275,4 +275,44 @@ As terminações do #presente_do_conjuntivo são descritos em @presente_conjunti
                                                 ],
     table.hline(),
   )
+
++ Als het werkwoord in de hoofdzin een _wil_, _twijfel_, _wens_ of _gevoel_ uitdrukt en gevolgd wordt door _que_ dan wordt de #presente_do_conjuntivo in de bijzin gebruikt. Het onderwerp in de hoofd- en de bijzin zijn in dit geval verschillend:
+
+  - *Ele* prefiro que *tu* chegues mais tarde.
+  - *Ela* deseja que *eles* fiquem em Belgíca.
+
+  Als het onderwerp in de hoofd- en bijzin hetzelfde zijn en _que_ niet gebruikt wordt, gebruik de infinitief in de bijzin.
+
+  - *Eu quero fazer* os testes.
+  - *Eles desejam ficar* em Belgíca.
+  - *Eu receio chegar* cedo.
+
+  Werkwoorden:
+
+  #table(
+    columns: (auto, auto, auto),
+    stroke: none,
+    table.hline(),
+    [desejo], table.cell(rowspan: 4, align(horizon, [desejar, duvidar, esperar, pedir, 
+
+                                                     preferir, querer, #sym.dots])), table.cell(rowspan: 4, align(horizon, [Eu quero que tragas o livro.])), 
+    [vontade],
+    [dúvida],
+    [preferência],
+    table.hline(stroke: line_stroke),
+    [sentimento], [gostar (que), recear (que), ter medo (que), ter pena (que)], [Receio que não cheguem em casa.],
+    [ordem], [exigir (que), mandar (que), proibir (que), #sym.dots], [Ele exige que não faças barulho.],
+    table.hline(),
+  )
+
++ Werkwoorden die een opinie uitdrukken: _pensar (que)_, _acreditar (que)_, _crer (que)_ en _achar (que)_ (informeel).
+
+  Een opinie die bevestigend wordt uitgedrukt in de hoofdzin, gevolgd door _que_ bevat een werkwoord in de #modo_ind in de bijzin:
+
+  - Eu *penso que* o curso português *é* difícil.
+  - Eu *acho que* este filme *é* muito bom.
+
+  Een opinie die niet bevestigend wordt uitgedrukt in de hoofdzin, gevolgd door _que_ bevat een werkwoord in de #modo_conj in de bijzin:
+
+  - *Não creio que* os pais *venham* esta noite.
 

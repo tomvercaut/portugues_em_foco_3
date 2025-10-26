@@ -5,6 +5,14 @@
     description: "Tegenwoordige tijd"
   ),
   (
+    key: "modo-ind",
+    short: "Modo Indicativo",
+  ),
+  (
+    key: "modo-conj",
+    short: "Modo Conjuntivo",
+  ),
+  (
     key: "modo-imp",
     short: "Modo Imperativo",
     description: "Gebiedende wijs"
