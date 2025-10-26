@@ -353,5 +353,4 @@ Este país conhecido por todos é: a Belgíca.
   
   Bolo do Caco é um pão redondo e achatado que normalmente é comido quente e barrado com manteiga de alho.
 
-  Alheira de Mirandela é um tipo de salsichas enchidas. Os ingredientes são carne de porco de raça Bisara, carne de ave, pão regional, banha de porco, azeite, alho, colorau e sal.
-
+  Alheira de Mirandela é um tipo de salsicha enchida. Os ingredientes são carne de porco de raça Bisara, carne de ave, pão regional, banha de porco, azeite, alho, colorau e sal. A área geográfica de produção da Alheira de Mirandela está circunscrita ao concelho de Mirandela.
