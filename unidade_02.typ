@@ -253,7 +253,7 @@
 #exercise
 
 + Verdadeiro
-+ Falsa
++ Verdadeiro
 + Verdadeiro
 + Falsa
 
