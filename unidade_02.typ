@@ -284,7 +284,7 @@ Este país conhecido por todos é: a Belgíca.
 + se lembre
 + consiguas
 + fiquem
-+ ponha
++ ponha(m)
 + estejam
 + se comportem
 + saibam
@@ -297,7 +297,7 @@ Este país conhecido por todos é: a Belgíca.
   table.hline(),
   table.header([], [Nome], [Adjectivo], [Verbo]),
   table.hline(),
-  [1.], [o tato],              underline[_tátil_],  [tocar],
+  [1.], [o tato],              underline[_tátil_],  [tatear],
   [2.], [a participação],      [participante],      underline[_participar_],
   [3.], underline[_a emoção_], [emocionado],        [emocionar],
   [4.], [o gelo],              underline[_gélido_], [gelar],
