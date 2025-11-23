@@ -7,6 +7,10 @@
   paper = sys.inputs.at("paper")
 } 
 
+#show: make-glossary
+#import "glossary.typ": entrylist
+#register-glossary(entrylist)
+
 #show: conf.with(
   title: [Português em Foco 3],
   authors: (
@@ -14,10 +18,6 @@
   ),
   paper-size: paper
 )
-
-#show: make-glossary
-#import "glossary.typ": entrylist
-#register-glossary(entrylist)
 
 #include "unidade_00.typ"
 #include "unidade_01.typ"
