@@ -193,7 +193,7 @@
                - de concentratie
                - het niveau],
     [envelhecer], [ouder worden],
-    [pertencer], [behoren],
+    [pertencer (a)], [behoren (fazer parte de)],
     [atribuir], [toewijzen (to attribute)],
     [obter], [- behalen (slagen in iets)
               - behalen (als in iets krijgen/bemachtigen)
@@ -204,6 +204,27 @@
     [a banha], [vet, reuzel],
     [o colorau ou \
      urucum], [uma especiaria em forma de pó e na cor vermelha],
+    // [], [],
+    [a greve], [de staking],
+    [o/a grevista], [de staker],
+    [o/a fura-greve], [stakingsbreker],
+    [o piquete], [picket],
+    [a avança], [tipo de contrato por um servico (subscription)],
+    [atracar], [aanmeren],
+    [a lua de mel], [huwelijksreis],
+    [a influência], [invloed],
+    [influente], [invloedrijk],
+    [a influença], [de griep],
+    [o desejo], [- de wens
+                 - het verlangen],
+    [o/a muído], [de kleintjes],
+    [o barco rabelo], [boot zonder kiel],
+    [ladeiar], [estar ão lado (flankeren)],
+    [beber-se fora das refeições], [wordt gedronken na het eten],
+    [quer por], [seja],
+    [a colheita], [de oogst],
+    [colher], [plukken],
+    // [], [],
     // [], [],
   )
 )
