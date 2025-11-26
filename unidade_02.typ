@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc
+#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao
 
 = Unidade 2: Portugal: marcas, produtos e pessoas
 == Vocabulário
@@ -224,7 +224,7 @@
     [quer por], [seja],
     [a colheita], [de oogst],
     [colher], [plukken],
-    // [], [],
+    [chumbo], [lood],
     // [], [],
   )
 )
@@ -375,3 +375,98 @@ Este país conhecido por todos é: a Belgíca.
   Bolo do Caco é um pão redondo e achatado que normalmente é comido quente e barrado com manteiga de alho.
 
   Alheira de Mirandela é um tipo de salsicha enchida. Os ingredientes são carne de porco de raça Bisara, carne de ave, pão regional, banha de porco, azeite, alho, colorau e sal. A área geográfica de produção da Alheira de Mirandela está circunscrita ao concelho de Mirandela.
+
+#exercise_no_number[Explique o significado dos provérbios imaginando um contexto apropriado. Procure equivalente em neerlandês, se houver.]
+
++ Deitar cedo e cedo erguer dá saúde e faz crescer.
+
+  Ochtendstond heeft goud in de mond.
+
++ Para bom entendedor, meia palavra basta.
+
+  Een goede verstaander heeft maar een half woord nodig.
+
++ #Nao #ha pior cego do que aquele que #nao quer ver.
+
+  Wat baten kaars en bril, als de uil niet zien wil.
+
++ Galhinha do mato #nao quer capoeira.
+
+  Een vrije geest / ziel, laat zich niet temmen.
+
++ Os amigos #sao para os ocasi#oes
+
+  In nood kent men zijn vrienden.
+
++ Antes #so que mal acompanhado.
+
+  Beter alleen, dan in slecht gezelschap
+
++ #E melhor prevenir do que remediar.
+
+  Beter voorkomen, dan genezen.
+
++ A palavra #e prata e o silêncio #e de ouro.
+
+  Spreken is zilver, zwijgen is goud.
+
++ Onde todos mandam e ningu#em obedece, tudo fenece.
+
+  Waar iedereen de baas is, en niemand gehoorzaamd, loopt alles in het honderd.
+
++ Na terra onde fores viver, faz como vires fazer.
+
+  Waar je gaat wonen, pas je je aan.
+
++ Para melhor muda-se sempre.
+
+  Verandering is altijd beter.
+
++ A esperan#cca #e a última a morrer.
+
+  Hoop doet leven. 
+
+  Zo lang er hoop is, is er leven.
+
++ Coimbra canta, Braga reza, Lisboa diverte-se e o Porto trabalha.
+
+  In Coimbra zingt men, in Braga zingt men, in Lissabon amuseert men zich en in Porto werkt men.
+
++ A exce#ccao faz a regra.
+
+  De uitzondering bevestigt de regel.
+
+
+#exercise_no_number[Express#oes com partes do corpo]
+
++ A Maria fez o exercício com uma _perna_  às costas.
+
+  Maria doet de oefening op 1 been.
+
++ Sem querer, fugiu-lhe a _boca_ para a verdade.
+
+  Zijn mond voorbij spreken.
+
++ Quando os voltei a ver, ao fim de muitos anos, emocionei-me e fiquei com um nó na _garganta_.
+
+  Krop in de keel hebben.
+
++ Ficámos de _pé_ atrás com as coisas que eles nos contaram.
+
+  We zetten een voet achteruit (als in willen vluchten of wantrouwen hebben).
+
++ É preciso que se tomem decisões de _cabeça_ fria.
+  
+  Het is nodig dat de beslissen moet een koel hoofd gemaakt worden.
+
++ Ela não sabe dançar. É mesmo um _pé_ de chumbo.
+
+  Ze kan niet dansen. Ze heeft 'loden' voeten.
+
++ Ele nunca compreende nada do que se lhe diz. É mesmo um _cabeça_ dura.
+
+  um _cabeça_ verwijst naar Ele 
+
++ O Luís irrita-me, está sempre a mandar _bocas_.
+
+  Luís irriteert me, hij commandeert me steeds.
