@@ -1,4 +1,5 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao
+#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox
+
 
 = Unidade 2: Portugal: marcas, produtos e pessoas
 == Vocabulário
@@ -225,6 +226,7 @@
     [a colheita], [de oogst],
     [colher], [plukken],
     [chumbo], [lood],
+    [ausente], [afwezig],
     // [], [],
   )
 )
@@ -470,3 +472,45 @@ Este país conhecido por todos é: a Belgíca.
 + O Luís irrita-me, está sempre a mandar _bocas_.
 
   Luís irriteert me, hij commandeert me steeds.
+
+== Teste de revisão
+
+=== Complete as frases com as formas verbais corretas.
+
++ Receio que o Pedro _perca_ as chaves de casa.
+
++ Espero que tu não _sintas_ frio hoje a noite.
+
++ Ela quer que eu _leia_ o jornal todos os dias.
+
++ É possível que já não _haja_ muito trânsito a esta hora.
+
++ É bom que vocês _ me prepare_ para o exame de português.
+
++ Espero que ela não me _peça_ dinheiro emprestado.
+
++ É provável que eles _venha_ ao Porto na próxima semana. 
+
++ É importante que nós _tragamos_ os dicionários para a aula.
+
+=== Conjuntivo ou Indicativo?
+
++ Ele diz que _chega_ hoje a Lisboa.
+
++ A Maria afirma que _fala_ sempre a verdade.
+
++ Creio que os meus vizinhos _são_ ausentes.
+
++ Acredito mesmo que o riso _é_ contagiante.
+
++ Não creio que ele _consiga_ compreender as tuas instruções.
+
++ Ela não acredita que eu _saiba_ falar japonês.
+
++ Eu não acho que tu _estajas_ cansado.
+
+=== Escreva um texto sobro o sequinte tema
+
+#messagebox([
+  Muitos jovens, hoje em dia, preferem viver sozinhos e ficar solteiros. Outros casam-se e têm filhos (frequentemente só um) cada vez mais tarde que os jovens estão a ficar mais egoístas ou mais conscientes? Quais serão as razões para estas mudanças sociais?
+])

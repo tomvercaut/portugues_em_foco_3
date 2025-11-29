@@ -1,4 +1,5 @@
 #import "@preview/glossarium:0.5.9": gls
+#import "@preview/showybox:2.0.4": showybox
 
 #let tbl_hdr_color = color.linear-rgb(47,84,150)
 #let line_stroke = (paint: silver, thickness: 0.5pt)
@@ -141,3 +142,13 @@
 #let E = [É]
 #let em = [ém]
 #let cca = [ça]
+
+#let messagebox(msg) = showybox(
+  frame: (
+    border-color: tbl_hdr_color,
+    body-color: tbl_hdr_color.lighten(95%),
+    radius: 0pt,
+  ),
+  // [#text(tbl_hdr_color.lighten(5%))[#msg]]
+  msg
+)
