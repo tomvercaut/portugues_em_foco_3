@@ -514,3 +514,5 @@ Este país conhecido por todos é: a Belgíca.
 #messagebox([
   Muitos jovens, hoje em dia, preferem viver sozinhos e ficar solteiros. Outros casam-se e têm filhos (frequentemente só um) cada vez mais tarde que os jovens estão a ficar mais egoístas ou mais conscientes? Quais serão as razões para estas mudanças sociais?
 ])
+
+Eu penso que uma grande parte dos jovens estuda na universidade depois de concluir o ensino secundário. Não creio que os jovens estejam egoístas. Na minha opinão, o conhecimento obterido lá, da-lhes liberdade tanto na vida quotidiana como na mente. Os estudos são normalmente 5 anos ou mais. Por isso, é lógico que os jovens casam-se e têm filhos mais tarde. Acho que pessoas agora são mais independentes uns dos outros.

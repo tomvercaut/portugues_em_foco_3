@@ -147,7 +147,7 @@
   frame: (
     border-color: tbl_hdr_color,
     body-color: tbl_hdr_color.lighten(95%),
-    radius: 0pt,
+    radius: 2pt,
   ),
   // [#text(tbl_hdr_color.lighten(5%))[#msg]]
   msg
