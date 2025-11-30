@@ -1,5 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox
-
+#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox, checkbox
 
 = Unidade 3: Mais que futebol e praia
 == Vocabulário
@@ -46,6 +45,18 @@
     [o estágio], [stage],
     [País de Gales], [Wales],
     [o mestrado], [master (universitaire graad)],
+    [aconselhar], [- adviesgeven
+                   - aanbevelen
+                   - waarschuwen],
+    [arriscar], [riskeren / risico nemen ],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
   )
 )
@@ -85,10 +96,13 @@
 
 #exercise
 
-+ F
++ #checkbox(false) Portugal oferece poucas oportunidades. Paulo e Inês querem ter contacto com outras culturas e aprender novas linguas.
++ #checkbox(true)
++ #checkbox(false) Inês pagou o mestrado com um estágio profissional.
 
-  Portugal oferece poucas oportunidades. Paulo e Inês querem ter contacto com outras culturas e aprender novas linguas.
-+ V
-+ F
+#exercise
 
-  Inês pagou o mestrado com um estágio profissional.
++ #checkbox(false) O Paulo é licenciado em Geografia.
++ #checkbox(true)
++ #checkbox(true)
++ #checkbox(false) O Paulo aconlha todos a arriscar mais e de sair da nossa zona de conforto.

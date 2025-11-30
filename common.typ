@@ -152,3 +152,11 @@
   // [#text(tbl_hdr_color.lighten(5%))[#msg]]
   msg
 )
+
+#let checkbox(checked) = {
+  if checked {
+    sym.ballot.cross
+  } else {
+    sym.ballot
+  }
+}
