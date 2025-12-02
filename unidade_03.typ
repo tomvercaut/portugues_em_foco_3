@@ -13,12 +13,22 @@
                     - vastleggen
                     - to establish],
     [o andarilho], [- een hulpstuk om te wandelen
-                    - iemand die veel wandelt],
+                    - iemand die veel wandelt
+                    - zwever],
+    [o vadio], [- #sym.approx vagabundo
+                - #sym.approx andarilho
+              ],
+    [o vagabundo], [- vagabond
+                    - hobo
+                    - bum
+                    ],
     [o espírito andarilho], [the spirit of a nomad],
     [denominado], [- genaamd
                    - called / named],
     [a estreia], [- premiere / opening],
-    [o pormenor], [een detail],
+    [estreat], [utilizar / fazer para a primeira vez],
+    [o pormenor], [- een detail
+                   - a detalha],
     [vingar], [- revenge / wraak nemen
                - slagen in (to succeed)
                - goed deinen in (to thrive)],
@@ -39,9 +49,13 @@
                   ],
     [a parceria], [- associatie
                    - samenwerkingsverband
+                   - #sym.approx colaboração
                   ],
     [herdar], [- erven
                - opvolgen (b.v. de troon)],
+    [a herdança], [de erfenis],
+    [o/a herdeiro/a], [erfgenaam],
+    [fazer a ponte], [brug bouwen / brug maken],
     [o estágio], [stage],
     [País de Gales], [Wales],
     [o mestrado], [master (universitaire graad)],
@@ -49,6 +63,40 @@
                    - aanbevelen
                    - waarschuwen],
     [arriscar], [riskeren / risico nemen ],
+    [referir a], [verwijzen naar],
+    [referir], [- refereren / verwijzen
+                - dizer (to tell, to relate)],
+    [a estratégia], [strategie],
+    [o negócio], [business ],
+    [o consultor], [raadgever],
+    [o perito], [expert],
+    [perito], [- expert
+               - skillfull],
+    [o traço], [- lijn / streep
+                - kenmerk / eigenschap
+                - passage / extract
+                - sketch],
+    [relatar], [- dar um relato
+                - vertellen, uitleggen
+                - rapporteren],
+    [superar], [- overtreffen
+                - overkomen
+                - overwinnen],
+    [o cidadão], [burger],
+    [a cidadã], [burger],
+    [o/a citadino/a], [uma pessoa que mora numa cidade],
+    [o enamoramento], [verliefd worden],
+    [anotar], [fazer notas],
+    [por], [omdat],
+    [para], [opdat],
+    [ser falar #sym.lt uma lingua #sym.gt], [een taal (kunnen) spreken],
+    [formar-se], [licenciar-se (diploma behalen)],
+    [Doutoro/a], [master],
+    [doutoro/a], [Phd],
+    [enfatizar], [- benadrukken
+                  - salientar],
+    // [], [],
+    // [], [],
     // [], [],
     // [], [],
     // [], [],
@@ -75,7 +123,9 @@
   table.hline(),
   [1.], [_a vingança_], [vingar],
   [2.], [_o nascimento_], [nascer],
-  [3.], [_o/a enamorado/a_], [enamorar-se],
+  [3.], [_o/a enamorado/a_
+
+         _o enamoramento_], [enamorar-se],
   [4.], [_a opção_], [optar],
   [5.], [a relação], [relacionar(-se)],
   [6.], [a formação], [formar],
@@ -85,18 +135,22 @@
 
 #exercise
 
-+ O sucesso da empresa _superar_ as expectativas.
++ O sucesso da empresa _supera_ / _superou_ as expectativas.
 + O seu _espírito andarilho_ levou-o a todos os cantos do mundo.
-+ A descisão do presidente _ir ao encontro_ do nosso parecer.
++ A descisão do presidente _vai / foi ao encontro_ do nosso parecer.
 + A empresa dela está _à cabeca_ de todas as empresas deste sector.
 + A Universidade de Lisboa trabalha _em parceria_ com algumas universidades estrangeiras.
 + Ela herdou os _traços orientais_ de uma avó japonesa.
 
-#skip_exercise
+#exercise
+
+2. Na nossa opinão, o especialista tem uma multidão de vantagens. Em geral o especialista tem muito o conhecimento numa área específica e mais difícil. Por isso está mais facil obter um trabalho interessante. Pelo contrário, o generalista pode trabalhar em diferentes tipos de trabalhor. Também o generalista tem a possibilidade de mudar trabalhos e empreas.
+
+4. Na nossa opinão, a fuga de cérebro é causada pelos problemas económicos, sociais e politicos. Os salários são mais baixos em Portugal em relação doutros países.
 
 #exercise
 
-+ #checkbox(false) Portugal oferece poucas oportunidades. Paulo e Inês querem ter contacto com outras culturas e aprender novas linguas.
++ #checkbox(true)
 + #checkbox(true)
 + #checkbox(false) Inês pagou o mestrado com um estágio profissional.
 
