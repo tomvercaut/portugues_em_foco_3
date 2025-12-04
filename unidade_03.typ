@@ -95,11 +95,23 @@
     [doutoro/a], [Phd],
     [enfatizar], [- benadrukken
                   - salientar],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
+    [opor-se], [- tegen zijn
+                - weigeren
+                - to be against
+                - to oppose
+                - to object
+                - to refuse],
+    [a luta], [een gevecht],
+    [apesar], [- in spite of],
+    [apesar de que], [
+                      - although
+                      - in spite of the fact that
+                      - despite the fact that],
+    [dececionado], [- teleurgesteld
+                    - ontgoocheld],
+    [desistir], [- opgeven
+                 - dropout
+                 - terugtrekken],
     // [], [],
     // [], [],
     // [], [],
@@ -160,3 +172,18 @@
 + #checkbox(true)
 + #checkbox(true)
 + #checkbox(false) O Paulo aconlha todos a arriscar mais e de sair da nossa zona de conforto.
+
+#exercise
+
++ Embora _seja_ (ser) um risco, muitos jovens _partam_ (partir, conjuntivo) à aventura.
++ Ainda que os pais _se opam_ (opor-se), a Maria quer ir trabalhar para o estrangeiro.
++ Se bem que _possa_ (poder) ser difícil, eu _quero_ fazer um estágio nos EUA. 
++ Mesmo que tu _tinhas_ (ter) medo, não _fiques_ (ficar, #modo_imp) parado! _Vai_ (ir, #modo_imp) à luta!
++ Eu _haja_ (haver) de conseguir um bom emprego, nem que _demore_ (demorar, #modo_imp) cem anos!
+
+#exercise
+
++ Apesar de os pais quererem que os filhos fiquem em casa, os jovens perferem ser independentes.
++ Embora tenha de estudar muito, eles queiram fazer um MBA.
++ Apesar de estar dececionado, não desistas dos teus sonhos.
++ Se bem que já conheçam o Porto, elas querem voltar lá.
