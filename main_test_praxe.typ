@@ -14,6 +14,11 @@
   paper-size: paper
 )
 
-// #include "testes/praxe.typ"
-#include "testes/oral_presentation_01.typ"
+= Avaliação contínua: audição - 5#super[e] e 6#super[e] ano
+
+*Nome do aluno:* Tom Vercauteren
+
+*Data:* 24/11/2025
+
+#include "testes/praxe.typ"
 

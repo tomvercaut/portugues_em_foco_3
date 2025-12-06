@@ -1,9 +1,3 @@
-= Avaliação contínua: audição - 5#super[e] e 6#super[e] ano
-
-*Nome do aluno:* Tom Vercauteren
-
-*Data:* 24/11/2025
-
 == A praxe académica em Coimbra (com Leo)
 
 === Responda às perguntas

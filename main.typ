@@ -25,6 +25,7 @@
 #include "unidade_03.typ"
 #include "conjuntivo.typ"
 #include "preposicoes.typ"
+#include "testes/testes.typ"
 
 = Glossário
 
