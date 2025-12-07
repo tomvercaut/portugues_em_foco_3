@@ -335,3 +335,14 @@
 + Paulo, desliga (desligar) a televisão antes de _se_deitar_ (deitar-se).
 + Normalmente, assim que _ligo_ (ligar) a televisão, adormeço logo.
 + Logo que _chegue_ (chegar) a casa, a Ana vai telefona à avó.
+
+#exercise
+
+Antes de começar na universidade, os estudantes recebem uma multidão de informação. 
+O problema talvez está que os estudantes não conseguem processar toda a informação.
+Além disso, não considero necessário que o governo deve interferir nas inscrições.
+Na minha opinão, a escolha de um curso deve ser motivada pelos os interesses dos alunos.
+A probabilidade de sucesso num curso, aumenta quando os alunos estão motivados.
+Evidentamente, o governo não precisa ser cego. 
+O governo poderia motivar os alunos para estudarem numa área profissional que não há suficientemente trabalhadores.
+Mas parte da liberdade num estado, é que os alunos podem escolhor o que eles querem estudar.
