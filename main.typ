@@ -6,6 +6,12 @@
 #if has_paper {
   paper = sys.inputs.at("paper")
 } 
+#let include_tests=false
+#if "include_tests" in sys.inputs.keys() {
+  if sys.inputs.at("include_tests") == "true" {
+    include_tests=true
+  }
+}
 
 #show: make-glossary
 #import "glossary.typ": entrylist
@@ -25,7 +31,11 @@
 #include "unidade_03.typ"
 #include "conjuntivo.typ"
 #include "preposicoes.typ"
-#include "testes/testes.typ"
+
+
+#if include_tests {
+  include "testes/testes.typ"
+}
 
 = Glossário
 
