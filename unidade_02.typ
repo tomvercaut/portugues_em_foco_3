@@ -225,7 +225,10 @@
     [quer por], [seja],
     [a colheita], [de oogst],
     [colher], [plukken],
-    [chumbo], [lood],
+    [chumbo], [- lood
+               - tandvulling
+               - het falen / buizen
+               - kogel],
     [ausente], [afwezig],
     // [], [],
   )
