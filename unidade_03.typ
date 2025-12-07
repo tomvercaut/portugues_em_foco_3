@@ -196,7 +196,18 @@
                     - to claim; to assert; to vindicate
                     - to demand
     ],
-    [], [],
+    [esgotado], [- uitverkocht
+                 - uitgeput],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
   )
 )
 
@@ -312,4 +323,15 @@
 + Ana, logo que _tinha_ tempo, _vá_ (ir) à farmácia!
 + Sofia, _desligue_ (desligar) a televisão antes que eu _me zangue_ (zangar-se)!
 
+#exercise
 
++ Assim que o Luís _acaba_ (acabar) o trabalho, vamos jantar.
++ Logo que a mãe _telefone_ (telefonar), podemos sair.
++ É melhor sairmos antes que _comece_ (começar) a chover.
++ O Sebastião não para de comer até que _estaja_ (estar) maldisposto.
++ Logo que tu _possas_ (poder), _trazes_ (trazer)  a revista que está em cima da mesa.
++ Assim que _saiba_ (saber) a resposta ao que te perguntei, _digo_ (dizer) imediatamente.
++ As crianças não param de brincar até _estajam_ / _estão_ (estar) esgotadas.
++ Paulo, desliga (desligar) a televisão antes de _se_deitar_ (deitar-se).
++ Normalmente, assim que _ligo_ (ligar) a televisão, adormeço logo.
++ Logo que _chegue_ (chegar) a casa, a Ana vai telefona à avó.
