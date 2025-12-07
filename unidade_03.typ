@@ -112,12 +112,91 @@
     [desistir], [- opgeven
                  - dropout
                  - terugtrekken],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
+    [o desempenho], [- een prestatie
+                     - een prestatie die uitgevoerd wordt],
+    [avaliar], [- evalueren
+                - beoordelen],
+    [a avaliação], [- evaluatie
+                    - beoordeling],
+    [reter], [- vasthouden
+              - beheersen],
+    [a retenção], [- retentie
+                   - een jaar opnieuw moeten doen in school],
+    [consolidar], [- consolideren
+
+                     vast en duurzaam maken],
+    [cumprir], [- to carry out; to comply with; to obey (e.g. law)
+                - to keep (a promise)
+                - to accomplish (a wish or desire)
+                - to serve (punishment or in the militairy)
+                - to fulfil (a request)],
+    [competer com], [in competitie zijn met],
+    [competer por], [in competitie zijn voor],
+    [competer a], [- to belong to
+                   - to be incumbent (verplicht zijn)],
+    [a potência], [- potentiaal (elektriciteit)
+                   - het potentieel (als iets kunnen)
+                   - kanshebber
+                   - macht (van een land)
+                   - macht ($x^y$)
+                  ],
+    [a montra], [uitstalraam],
+    [OCDE], [Organização Europeia de Cooperação Económica],
+    [a taxa], [- tax, belasting
+               - a rate
+               - het percentage],
+    [contabilizar], [- berekenen
+                     - inschatten],
+    [acarretar], [- dragen
+                  - vervoeren in een kar / doos
+                  - de oorzaak zijn
+                  - resulteren in],
+    [anímico], [- gelinkt met de het mentale of geest
+                - spiritueel],
+    [brutal], [- brutaal
+               - sterk, intense
+               - ruw, onverfijnd],
+    [distorcer], [to distort, vervormen],
+    [a aprendizagem], [- het leren
+                       - trainen
+                       - leerperiode, trainingsperiode
+                       - een stage],
+    [a escolaridade], [- de mate waarin school gevolgd wordt / gevolgd werd
+                       - het schoolingsniveau / graad / niveau],
+    [a simulação], [simulatie],
+    [a limitação], [beperking],
+    [metodológico], [methodologisch],
+    [suceder], [- acontecer (gebeuren, plaatsvinden)
+                - seguir-se (volgen, komen na)],
+    [o ceticismo], [skeptisch zijn],
+    [o falhanço], [het falen, het niet slagen],
+    [a literacia], [geletterheid],
+    [comunicacional], [communicatie, communicatief],
+    [perpetrar], [begaan],
+    [descodificar], [decoderen, ontcijferen],
+    [diferenciar], [- distinguir, onderscheiden
+                    - discrimineren
+                    - afleiden (wiskundig)],
+    [a crónica], [de kroniek],
+    [o leitor], [- de lezer
+                 - iemand die een lezing geeft
+                 - een schijf in IT],
+    [exigente], [veeleisend],
+    [qualificado], [gekwalificeerd],
+    [o boato], [rumor],
+    [golpe], [
+              - cut (corte) 
+              - blow, stroke (pancada, movimento)
+              - blow (abalo)
+              - stroke (lance)
+              - politiek of militaire coup
+              - fraud, scam
+            ],
+    [reivindicar], [
+                    - to claim; to assert; to vindicate
+                    - to demand
+    ],
+    [], [],
   )
 )
 
@@ -187,3 +266,50 @@
 + Embora tenha de estudar muito, eles queiram fazer um MBA.
 + Apesar de estar dececionado, não desistas dos teus sonhos.
 + Se bem que já conheçam o Porto, elas querem voltar lá.
+
+#exercise
+
++ desempenho  #sym.arrow.r c) resultado
++ reter       #sym.arrow.r f) retenção
++ chumbo      #sym.arrow.r d) não passar de ano
++ suceder     #sym.arrow.r b) acontecer
++ simulação   #sym.arrow.r a) demonstração 
++ transição   #sym.arrow.r e) passagem de ano
+
+#exercise
+
++ As _retenções_ dos alunos são o aspeto mais negativo de uma evolução escolar desejada.
++ Aos 15 anos, cerca de um terço dos alunos portugueses já _chumbaram_ uma ou mais vezes.
++ Muitos países têm _taxas_ de retenção próximas do zero.
++ As _transições_ administrativas mostram que o aluno não aprendeu uma parte da matéria avaliada.
++ Nos últimos anos, os alunos portugueses melhoraram o _desempenho_ nos testes PISA.
+
+#exercise
++ meter na gaveta
++ segunda
++ reivindicar
++ literacia de comunicação (massas?)
++ sistemas comunicacionais
++ distinguir e valorizar
++ crime perpetrados
++ diferenciam
++ manipulção informativa
++ exigentes, qualificados
++ golpos boatos
+
+#exercise
+
++ Ele diz que me _vai telefonar_ (telefonar) assim que _saiba_ (saber) o resultado do jogo.
++ Eu _saio_ (sair) de casa logo que to _chegues_ (chegar).
++ Tens de comprar mais café antes que este _acabe_ (acabar).
++ Eu não _falo_ (falar) com o Luis até que ele _esteja_ (estar) mais calmo. 
++ Possivelemente, vou dormir assim que _chegue_ (chegar) a casa.
+
+#exercise
+
++ João, _arrume_ (arrumar) a sala antes que os teus convidados _cheguem_ (chegar)!
++ Meninos, assim que _entrem_ em casa, _descalcem-se_ (descalçar-se)!
++ Ana, logo que _tinha_ tempo, _vá_ (ir) à farmácia!
++ Sofia, _desligue_ (desligar) a televisão antes que eu _me zangue_ (zangar-se)!
+
+
