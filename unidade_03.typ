@@ -198,17 +198,61 @@
     ],
     [esgotado], [- uitverkocht
                  - uitgeput],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-  )
+    [nortear], [- oriënteren
+                - begeleiden],
+    [romano/a], [romeins],
+    [honrar], [- respeitar
+               - eren
+               - honoreren
+               - respecteren],
+    [levar a mal], [não faz mal],
+    [quebrar], [- partir, fraturar (breken)
+                - romper, desfazer (breken, maar figuurlijk)],
+    [o detrimento], [a desvantagem],
+    [Entrudo], [#sym.approx o carnaval],
+    [tropelia], [- confusão
+                 - tumulto que faz gente em tropel],
+    [os bandos], [os grupos],
+    [o careto], [Personagem carnavalesca, diabólica ou misteriosa, com máscara de couro, latão ou madeira, traje muito colorido, geralmente franjado e com uma enfiada de chocalhos à cintura, comum em algumas zonas do Norte de Portugal.],
+    [desenfreada], [- ongeremd
+                    - unrestrained],
+    [perseguindo], [],
+    [a moçoila], [a rapariga (meisje)],
+    [chocalhar], [belletjes rinkelen],
+    [a elegia], [een lied],
+    [dessedentar], [matar a sede (dorst lessen / stillen)],
+    [a investida], [- een aanval
+                    - bruske beweging voorwaards (thrust)
+                    - entrar na capela],
+    [o punhado], [een handvol, kleine hoeveelheid],
+    [forasteiro], [- de fora
+                   - que é estranho aos hábitos de um lugar],
+    [a funçanata], [Festa alegre e ruidosa],
+    [o mote], [- a particle
+               - a speck],
+    [agitação], [- muito movimento e ruído
+                 - estado de nervos e confusão],
+    [impregnar], [fazer penetrar em (impregneren)],
+    [o designio], [- a intensão
+                   - plan, intentie],
+    [licenciosidade], [losbandigheid],
+    [desvario], [- Acto praticado por doente que delira. (delirisch zijn)
+                 - Acto de loucura.(iets zot / gek doen)
+                 - Grande disparate. (grote onzin)
+                 - Aberração. (afwijking)],
+    [os foliões], [feestvierders],
+    [a bênção], [de zegen],
+    [a feição], [traços fisionômicos (kenmerk, feature)],
+    [supostamente], [vermoedelijk / allegedly],
+    [saturnal / saturnais], [- betreffende de planeet Saturnus
+                             - betreffende de god Saturnus
+                             - betreffende orgie
+                             - feest van losbandige genoegens
+                             - Losbandig leven, vooral gewijd aan seksuele genoegens, eten en drinken.],
+    [a sementeira], [a person who runs, or works in, a nursery for plants.],
+    [contenção], [- limitação, controle
+                  - restraint],
+    )
 )
 
 == Exercícios
