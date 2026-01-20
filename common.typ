@@ -114,6 +114,17 @@
   *#desc *\
 ]
 
+#let indent(desc) = {
+  block(
+    inset: 5%,
+    [#desc]
+  )
+}
+
+#let bold(desc) = {
+  text(weight: "bold")[#desc]
+}
+
 #let presente_do_conjuntivo = [_#gls("pres-conj")_]
 #let presente_do_indicativo = [_#gls("pres-ind")_]
 #let modo_ind = [_#gls("modo-ind")_]
