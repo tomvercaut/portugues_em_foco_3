@@ -13,14 +13,14 @@
     [o nó], [knoop],
     [o desfile], [parade, processie, defile, conjunto de pessoas que se apresentam para um público],
     [aplaudir], [applaudiseren, batar as palmas],
-    [o manjerico], [basilicum],
+    [o manjerico], [marjolein],
     [o alho-porro], [prei],
     [o martelo], [hamer],
     [o vestígio], [- o que resta de algo que desapareceu (trace)
                    - indício, pista, rastro (figuurlijk) (trace)],
     [o solstício], [solstice, zonnewende],
     [o equinócio], [equinox],
-    [comovente], [ontroerend],
+    [comovente], [ontroerend, que dá uma emoção],
     [o patrono], [patroon(heilige)],
     [a procissão], [processie, caminhada religiosa],
     [a largada], [de start, ponto inicial de uma competição],
@@ -56,6 +56,16 @@
 
                 #sym.arrow.r.double versieren
               ],
+    [abanar a cabeça], [het hoofd schudden],
+    [largar], [loslaten],
+    [a beira], [de oever],
+    [o foz], [riviermonding],
+    [abençoar], [zegenen],
+    [após], [depois de],
+    [o pregão / os pregões], [(smeek)bede],
+    [dar o nó], [casar],
+    [em tom de], [como],
+    // [], [],
     // [], [],
   )
 )
