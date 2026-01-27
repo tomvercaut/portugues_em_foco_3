@@ -45,8 +45,11 @@
     [a igreja matriz], [parochiekerk],
     [a devoção], [toewijding, devotie],
     [pagão / pagãs], [pagan, heiden],
-    [a reminiscência], [de herinnering, a lembrança],
-    [a proíbição], [o ato de não permitir algo],
+    [a reminiscência], [de (vage) herinnering, a lembrança],
+    [a proíbição], [- o ato de não permitir algo
+                    - a interdição
+                    - o veto
+                    ],
     [Todos os Santos], [allerheiligen],
     [Fiéis Defuntos], [allerzielen],
     [decorar], [- adornar
@@ -65,6 +68,22 @@
     [o pregão / os pregões], [(smeek)bede],
     [dar o nó], [casar],
     [em tom de], [como],
+    [aflito], [aangenaam],
+    [dar a mão à palmatório], [- aceitar de fazer um erro
+                               - een fout toegeven
+                               - schuld bekennen
+                              ],
+    [alcançar], [- bereiken
+                 - to reach],
+    [procrastinar], [- adiar
+                     - uitstellen],
+    [a procrastinação], [uitstelgedrag],
+    [o tabu], [taboe],
+    [o defunto], [de overledene],
+    [o laico], [- o/a ateísta
+                - ongelovige],
+    [o moinho], [windmolen],
+    // [], [],
     // [], [],
     // [], [],
   )
@@ -221,6 +240,32 @@
   A maioria do estilo arquitetónico é barroco e rocaille, mas também existe uma casa gótica que foi de um navigador.
 + V
 
+#exercise_no_number[Exercicio adicional: Provérbios]
+
++ Quem quer tudo, tudo perde. (h) \
+  Wie alles wil, verliest alles.
++ Quem espera, sempre alcança. (e) \
+  Wie wacht, krijgt alles wat hij wil.\
+  Wie wacht, bereikt bereikt altijd zijn doel.
++ Quem canta, seus males espanta. (j) \
+  Wie zingt, verdrijft zijn zorgen.\
+  Wie zingt, houdt zijn zorgen weg.
++ Há males, que vêm por bem. (g) \
+  Uit een negatief iets / event, komt later iets goed.
++ Deus escreve certo, por linhas tortas. (i)\
+  Good works in mysterious ways.\
+  God writes straight on crooked lines.
++ Águas passadas, não movem moinhos. (a)\
+  O que já aconteceu no passado não pode ser mudado e, portanto, não deve interferir no presente ou no futuro.\
+  Let bygones, be bygones.\
+  Past offences, should be disregarded.
++ Os cães ladram, e a caravana passa. (f) \
+  A expressão significa que se devem ignorar as provocações que possam impedir o progresso e esquecer críticas que não sejam construtivas.
++ Devagar, se vai ao longe. (a) \
+  Slow and steady wins the race.
++ Enquanto há vida, há esperança. (c) \
+  Zolang er leven is, is er hoop.
+
 #exercise
 
 - por dentro e por fora
@@ -239,30 +284,39 @@
 + tenham / devem
 + faz / possa
 + fiquem / telefona
-+ compra / possam
++ compra / possam | comprou / pudessem
 
 #exercise
 
 + traz / escolha | traga / escolha
 + vão / possa | vão / possa
 + sai / cheguem | saia / cheguem
++ trabalhem / aumentem
 
 #exercise
 
-+ tragas / poder
++ tragas / poderes
 + vejam / compreenderem
-+ verificamos / podermos
++ verificarmos / podermos
 + tomem / conseguirem
 + possa
 + conseguirem
 
 #exercise
 
-+ origem: o momento quando alguma coisa comeca
++ origem: - o momento quando alguma coisa comeca
+          - o começo
+          - a proveniência
+          - o início
+          - o principio
+          - a fonte
+          - a raíz
 + coincidir: dois ou mais eventos que acontecem / ocorrem no mesmo momento
 + a reminiscência: a lembrança, a memoria
-+ anteriores: que aconteceu antes de
-+ a proíbição: o ato de não permitir algo
++ anteriores: - que aconteceu antes de 
+              - precedente
++ a proíbição: - o ato de não permitir algo
+               - a interdição
 
 #exercise
 
