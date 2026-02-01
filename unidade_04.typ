@@ -99,8 +99,8 @@
     [o carro alegórico], [veículo enfeitado com figuras ou motivos simbólicos],
     [obeso/a], [obesitas],
     [punir], [straffen],
-    // [], [],
-    // [], [],
+    [a não ser que], [tenzij dat],
+    [desde que], [op voorwaarde dat],
     // [], [],
     // [], [],
     // [], [],
@@ -395,5 +395,14 @@ Muitas coisas influenciam o peso das crianças. Por exemplo:
 O governo também tem uma responsabilidade em reduzir os impostos da alimentação saudável e aumentar os impostos da alimentação pouco saudável.
 
 Por isso, não penso que os pais devam ser punidos.
+
+#exercise
+
++ haja / vamos
++ queiras / conseguimos
++ saío / digas
++ jantará ou janto / cozinhe
++ conseguimos / apanhemos
++ façam / podemos ou podem
 
 
