@@ -10,25 +10,6 @@
   set text(lang: "pt")
   set page(
     paper: paper-size,
-    // https://github.com/typst/typst/issues/1613
-    // header: context if (
-    //   query(heading.where(level: 1).after(here()))
-    //     .map(h => h.location().page())
-    //     .at(0, default: 0) == here().page()
-    // ){
-    //   align(right + horizon, title)
-    // },
-    header: {
-      context if here().page() > 2 {
-        align(right + horizon, title) 
-      }
-      // let n = context query(selector(heading).before(here())).len();
-      //
-      // // if n < 1 {
-      // //   align(right + horizon, title) 
-      // // }
-      // [#repr(m)] 
-    },
     columns: 1,
   )
 
@@ -42,8 +23,9 @@
         #v-space
         #text(1.5em, authors)
       ]
-    )
+    ),
   )
+
 
   show outline.entry: it => link(
     it.element.location(),
@@ -54,17 +36,6 @@
   set outline.entry(fill: [ ])
 
   set par(justify: true, linebreaks: "optimized")
-
-  // show ref: it => {
-  //   let el = it.element
-  //   if el != none {
-  //     link(el.location(), 
-  //     numbering(el.numbering, ..counter(eq).at(el.location()))
-  //     )
-  //   } else {
-  //     it
-  //   }
-  // }
 
   // Add a vertical space after headings
   show heading: it => {
@@ -81,6 +52,20 @@
   
   // Table of content
   outline(depth: 2)
+
+  counter(page).update(0)
+
+  // Each page afterwards should have this formatting
+  set page(
+    header: {
+      context if here().page() > 0 {
+        align(right + horizon, title) 
+      }
+    },
+    numbering: "1",
+    number-align: right,
+  )
+
   pagebreak(weak: true)
   {
     body
