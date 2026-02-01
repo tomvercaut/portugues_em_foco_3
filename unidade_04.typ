@@ -423,3 +423,17 @@ Por isso, não penso que os pais devam ser punidos.
 + Caso vocês queiram (querer) ir à festa, avisem (avisar) com antecedência!
   No caso de quererem ir à festa, avisem com antecedência!
 
+#exercise
+
+- O governo pode ensinar como comer / cozinhar na vida real. 
+  - Para os adultos: Os programas de culinária na televisão podem mostrar que cozinhar de forma saudável é mais do que apenas preparar uma salada.
+  - Para as crianças: Aprender a cozinhar com ingredientes saudáveis na escola / em casa durante as férias. 
+
+- O governo pode reduzir os impostos da alimentação saudável e aumentar pouco saudável.
+- Reduz as opções do marketing pelos produtos pouco ou não saudáveis.
+- Sou a favor de restringir a venda de doçes nas escolas.
+  Os habitos crianças criam na escola, têm influências durante o resto da vida.
+  Crianças não precisam escolher entre doçes e alimentações saudáveis quando não há doçes.
+
+Por outro lado é importante permitir exeções para festas e eventos.
+
