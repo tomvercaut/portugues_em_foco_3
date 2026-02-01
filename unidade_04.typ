@@ -412,3 +412,14 @@ Por isso, não penso que os pais devam ser punidos.
 + autorize / saíam
 + leve / devolva
 
+#exercise
+
++ Caso _te escqueças_ (esquecer-se) das chaves da casa, pede à Maria que te abra a porta.\
+  No caso de te esqueceres das chaves da casa, pede à Maria que te abra a porta.
++ Desde que vocês _estejam_ (estar) cansados, podem fazer uma pausa.
+  No caso de estarem cansados, podem fazer uma pausa.
++ Sem que o médico _dé_ (dar) autorização, o Rui não _pode_ (poder) sair de casa.
+  Sem o médico dar autorização, o Rui não _pode_ (poder) sair de casa.
++ Caso vocês queiram (querer) ir à festa, avisem (avisar) com antecedência!
+  No caso de quererem ir à festa, avisem com antecedência!
+
