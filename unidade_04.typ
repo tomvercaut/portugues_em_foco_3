@@ -26,6 +26,7 @@
     [a largada], [de start, ponto inicial de uma competição],
     [o touro], [stier],
     [o pretexto], [uma razão apresentada para esconder a verdadeira razão (voorwensel) / uma desculpa],
+    [o festejo], [een viering, iets dat gevierd wordt],
     [a folia], [festejo animado e ruidoso],
     [a fogueira], [monte de lenha no qual se ateia fogo (groot vuur, kampvuur)],
     [o chafariz], [a fonte público, fontein],
@@ -83,7 +84,8 @@
     [o laico], [- o/a ateísta
                 - ongelovige],
     [o moinho], [windmolen],
-    // [], [],
+    [a romaria], [- populaire festiviteiten
+                  - pilgramage],
     // [], [],
     // [], [],
   )
@@ -252,7 +254,7 @@
   Wie zingt, houdt zijn zorgen weg.
 + Há males, que vêm por bem. (g) \
   Uit een negatief iets / event, komt later iets goed.
-+ Deus escreve certo, por linhas tortas. (i)\
++ Deus escreve certo, por línhas tortas. (i)\
   Good works in mysterious ways.\
   God writes straight on crooked lines.
 + Águas passadas, não movem moinhos. (a)\
@@ -329,3 +331,33 @@
   A religião é profundamente ligado à sociedade.
   Os principais acontecimentos sociais estão ligados a atos religiosos: o nascimento, o batismo, o casamento e a morte.
   A religião tem uma grande influência nos valores morais, proíbições e tabus.
+
+#exercise
+
++ Na minha opinião, nenhuma religião deveria ser ensinada nas escolas públicas durante o horário obrigatório. 
+  A mente ou memória deve ser trainado em sujetos que estão mais relevante pela sociedade (por exemplo: ciências, línguas).
+  Diferentes religiões podem ser ensinadas  nas escolas públicas após o horário escolar.
+  Uma outra opção é que as pessoas estudem religiões quando estiveram mais desenvolvidas.
++ Na minha opinião, pessoas casam-se porque se amam.
+  É só uma maneira para exprimir que dois pessoas vão viver juntos pelo resto das suas vidas.
+  É importante que as pessoas escolhem como se casam independente das diferentes religiões. 
++ Acho que é importante que aprenda a língua mas também a cultura quando vives num país estrangeiro.
+  Sem aprender uma língua, é difícil integrar-se na sociedade, criar amizadas com os habituantes locais.
+  Naturalmente com tempo, culturas mudam / enriquecem porque são uma mixtura de tradições e novas culturas criam pelas pessoas que vivem neste momento.
++ Conheco emigrantes que se integram bem, que falam a língua e que participam na sociedade.
+  Por outro lado, conheco emigrantes que não se integram bem, que têm dificuldade em falar a língua local.
+  O parte mais importante, na minha opinião, é que os emigrantes tentem de integrar-se. 
+  Precisamos perceber que não é sempre fácil o esforço é importante.
+ 
+#exercise
+
++ inumeras celebrações religiosas
++ enfeitam-se de várias coras
++ espirito de folia
++ os petiscos
++ raizes
++ vai recuar o tempo
++ aprecie os sabores
++ festividade insular
++ não perca 
++ vestidas de flores
