@@ -86,6 +86,23 @@
     [o moinho], [windmolen],
     [a romaria], [- populaire festiviteiten
                   - pilgramage],
+    [o petisco], [- snack
+                  - hapje
+                 ],
+    [os petiscos], [- aperitief hapjes
+                  - tapas],
+    [insular], [- isoleren
+                - insolar-se
+                - transformar em ilha
+                - separar como em ilha],
+    [alegórico], [que encerra alegoria ou diz respeito a ela],
+    [o carro alegórico], [veículo enfeitado com figuras ou motivos simbólicos],
+    [obeso/a], [obesitas],
+    [punir], [straffen],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
     // [], [],
   )
@@ -361,3 +378,22 @@
 + festividade insular
 + não perca 
 + vestidas de flores
+
+#exercise
+
+Os pais são responsável pelo bem-estar dos filhos. 
+É importante que os pais tentem alimentar os filhos o melhor possível.
+Os pais precisam mostrar e explicar qual são os diferentes tipos de comida saudável.
+Por outro lado, não é sempre fácil controlar o que as crianças comem quando os pais não estão perto.
+Muitas coisas influenciam o peso das crianças. Por exemplo:
+- Os pais trabalham até tarde e, quando os pais chegam em casa, não querem / têm tempo para preparar refeições saudáveis.
+- Os amigos das crianças também têm uma influência
+- Quando pessoas estão pobre, a qualidade da comida baixa.
+- A localisação onde as pessoas moram, influência os produtos que podem comprar numa loja. 
+  Nos Estados Unidos, existe desertos da comida, onde pessoas não têm acesso à comida saudável.
+
+O governo também tem uma responsabilidade em reduzir os impostos da alimentação saudável e aumentar os impostos da alimentação pouco saudável.
+
+Por isso, não penso que os pais devam ser punidos.
+
+
