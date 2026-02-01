@@ -109,6 +109,7 @@
     [difundir], [- diffusie
                  - verspreiden],
     [Consoada], [avondmaal op kerstavond],
+    [A véspera de Natal], [kerstavond],
     [o borrego], [lam],
     [o cabrito], [jonge geit],
     [judaísmo], [jodendom],
@@ -117,9 +118,11 @@
     [a clara], [het eiwit van een ei],
     [o/a excedente], [overschot],
     [o guisado], [stoofpot],
-    // [], [],
-    // [], [],
-    // [], [],
+    [a fim de que], [- opdat
+                     - zodat],
+    [para que], [- zodat
+                 - waardoor],
+    [o verso], [een vers (als in tekst)],
     // [], [],
     // [], [],
     // [], [],
@@ -474,3 +477,35 @@ As receitas pelos diferente doces usam muito açucar e ovos.
 Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semelhantes dos doces bem conhecidos na Belgíca:
 - arroz doce (com ovos e canela)
 - bolinhos fritos (com cenouras)
+
+== Teste de revisão
+
+#set_exercise_counter(0)
+
+#exercise
+
++ tinha
++ faça
++ possam
++ poder | podia | poderá
++ chegues / ficamos | ficarmos
++ vás / avisa
++ arranjam / posso
++ podes / faças
++ sabe / autorizes
++ podes / digas
+
+#exercise
+
++ patrocina / casamento
++ manjerico
++ coincide / solstício
++ martelo
++ sardinhas
+
+#exercise
+
++ para
++ Para que
++ a fim de
++ a fim de que 
