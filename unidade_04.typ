@@ -405,4 +405,10 @@ Por isso, não penso que os pais devam ser punidos.
 + conseguimos / apanhemos
 + façam / podemos ou podem
 
+#exercise
+
++ encontres / pedes ou pede
++ traga / esteja
++ autorize / saíam
++ leve / devolva
 
