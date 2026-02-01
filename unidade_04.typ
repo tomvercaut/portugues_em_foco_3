@@ -101,6 +101,28 @@
     [punir], [straffen],
     [a não ser que], [tenzij dat],
     [desde que], [op voorwaarde dat],
+    [o preceito], [teaching (something taught by a religious or philosophical authority)],
+    [basear], [baseren op],
+    [a eleição], [verkiezing],
+    [a penitência], [- een boetedoening
+                     - een straf],
+    [difundir], [- diffusie
+                 - verspreiden],
+    [Consoada], [avondmaal op kerstavond],
+    [o borrego], [lam],
+    [o cabrito], [jonge geit],
+    [judaísmo], [jodendom],
+    [o convento], [abdij of klooster],
+    [a gema], [de dooier van een ei],
+    [a clara], [het eiwit van een ei],
+    [o/a excedente], [overschot],
+    [o guisado], [stoofpot],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
     // [], [],
     // [], [],
@@ -431,9 +453,24 @@ Por isso, não penso que os pais devam ser punidos.
 
 - O governo pode reduzir os impostos da alimentação saudável e aumentar pouco saudável.
 - Reduz as opções do marketing pelos produtos pouco ou não saudáveis.
-- Sou a favor de restringir a venda de doçes nas escolas.
+- Sou a favor de restringir a venda de doces nas escolas.
   Os habitos crianças criam na escola, têm influências durante o resto da vida.
-  Crianças não precisam escolher entre doçes e alimentações saudáveis quando não há doçes.
+  Crianças não precisam escolher entre doces e alimentações saudáveis quando não há doces.
 
 Por outro lado é importante permitir exeções para festas e eventos.
 
+#exercise 
+
+Em Portugal come-se bacalhau salgada e na Belgíca come-se bacalhau fresca.
+
+Na véspera de Natal, comemos um guisado de veado com chicória, pêra e croquetes.
+
+Na Páscoa comemos borrego com algumas vegetais e croquetes.
+
+#exercise 
+
+As receitas pelos diferente doces usam muito açucar e ovos.
+
+Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semelhantes dos doces bem conhecidos na Belgíca:
+- arroz doce (com ovos e canela)
+- bolinhos fritos (com cenouras)
