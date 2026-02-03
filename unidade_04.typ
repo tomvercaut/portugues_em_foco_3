@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox, checkbox, indent, bold
+#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox, checkbox, indent, bold, dot_line
 
 = Unidade 4: Festas, gastronomia e religião
 == Vocabulário
@@ -545,4 +545,16 @@ Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semel
 + Para que
 + a fim de
 + a fim de que 
-]
+
+#exercise_no_number[Gramática adicional: Completar as seguintes frases com os verbos conjugados no tempo adequado.]
+
++ Tem cuidado, Antônio. Não _ponha_ (pôr) demasiado açúcar no café.
++ Os presentes só #dot_line (abrir) depois oe todos #dot_line (chegados).
++ Nos últimos tempos, os consumidores portugueses #dot_line (mostrar-se) mais conscientes do seu direito de reclamação.
++ É lamentável que muitas pessoas _aceitem_ (aceitar) com resignação uma má presentação de um serviço.
++ Desculpa, mas exijo que me _traria_ (trazer) o Livro de Reclamações.
++ Não acredito que a Isabel _faça_ (fazer) esse reclamação pr escrito.
++ Eu teria desistido da queixa, se o dinheiro _devolva_ (devolver) na totalidade.
++ Se todos nós #dot_line (comprar) mais produtos nacionais, seria bom para a economia do país.
++ Normalmente as pessoas esperam muito tempo para #dot_line (atender) nos serviços públicos.
++ Pois. Agora estás com frio! Mas eu bem te #dot_line (dizer) que #dot_line (trazer) roupa mais quente.

@@ -136,6 +136,7 @@
 #let cond = [_#gls("cond")_]
 #let fc = [_#gls("fc")_]
 
+#let dot_line = [\_\_\_\_\_\_\_\_\_\_\_\_]
 #let ao = [ão]
 #let oe = [õe]
 #let oes = [ões]
