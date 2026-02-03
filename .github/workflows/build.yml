@@ -42,7 +42,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         if: github.ref_type == 'tag'
         with:
-          files: portugues_em_foco_3.pdf
+          files: |
+            portugues_em_foco_3.pdf
+            portugues_em_foco_3_mobile.pdf
 
       - name: Keep last 2 releases
         uses: sgpublic/delete-release-action@v1.2
