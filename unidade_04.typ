@@ -27,7 +27,11 @@
     [o touro], [stier],
     [o pretexto], [uma razão apresentada para esconder a verdadeira razão (voorwensel) / uma desculpa],
     [o festejo], [een viering, iets dat gevierd wordt],
-    [a folia], [festejo animado e ruidoso],
+    [a folia], [
+        - festejo animado e ruidoso
+        - de gekhei
+    ],
+    [recuar], [ir para atrás (terug gaan in de tijd)],
     [a fogueira], [monte de lenha no qual se ateia fogo (groot vuur, kampvuur)],
     [o chafariz], [a fonte público, fontein],
     [barroco], [barok],
@@ -99,9 +103,18 @@
     [o carro alegórico], [veículo enfeitado com figuras ou motivos simbólicos],
     [obeso/a], [obesitas],
     [punir], [straffen],
+    [caso], [in het geval dat],
+    [sem que], [zonder dat dat],
     [a não ser que], [tenzij dat],
-    [desde que], [op voorwaarde dat],
-    [o preceito], [teaching (something taught by a religious or philosophical authority)],
+    [desde que], [
+        - zodra
+        - op voorwaarde dat
+    ],
+    [o preceito], [
+      - voorschrift
+      - regel
+      - teaching (something taught by a religious or philosophical authority)
+    ],
     [basear], [baseren op],
     [a eleição], [verkiezing],
     [a penitência], [- een boetedoening
@@ -123,7 +136,30 @@
     [para que], [- zodat
                  - waardoor],
     [o verso], [een vers (als in tekst)],
-    // [], [],
+    [o gabador], [stoefer],
+    [crer], [geloven],
+    [ser crente], [gelovig zijn],
+    [atrair], [aantrekken],
+    [atirar], [lançar],
+    [a(s) lei(s)], [wet(ten)],
+    [incitava], [
+      - estimular
+      - aanmoedigen
+      - aanzetten
+      - stimuleren
+    ],
+    [o jejum], [de vasten],
+    [levar o cabo], [
+      - doen
+      - fazer
+      - realisar
+    ],
+    [excedente], [overschot],
+    [passar a ser], [
+      - worden
+      - voortaan zijn
+      - overgaan in
+    ],
     // [], [],
     // [], [],
     // [], [],
@@ -393,7 +429,7 @@
  
 #exercise
 
-+ inumeras celebrações religiosas
++ inímeras celebrações religiosas
 + enfeitam-se de várias coras
 + espirito de folia
 + os petiscos
@@ -424,7 +460,7 @@ Por isso, não penso que os pais devam ser punidos.
 #exercise
 
 + haja / vamos
-+ queiras / conseguimos
++ queiras / consegues
 + saío / digas
 + jantará ou janto / cozinhe
 + conseguimos / apanhemos
@@ -432,21 +468,21 @@ Por isso, não penso que os pais devam ser punidos.
 
 #exercise
 
-+ encontres / pedes ou pede
-+ traga / esteja
++ encontres / pede (tu / #modo_imp)
++ traz / esteja
 + autorize / saíam
-+ leve / devolva
++ leve / devolvas
 
 #exercise
 
 + Caso _te escqueças_ (esquecer-se) das chaves da casa, pede à Maria que te abra a porta.\
-  No caso de te esqueceres das chaves da casa, pede à Maria que te abra a porta.
+  No caso de _te esqueceres_ das chaves da casa, pede à Maria que te abra a porta.
 + Desde que vocês _estejam_ (estar) cansados, podem fazer uma pausa.
-  No caso de estarem cansados, podem fazer uma pausa.
-+ Sem que o médico _dé_ (dar) autorização, o Rui não _pode_ (poder) sair de casa.
+  No caso de _estarem_ cansados, podem fazer uma pausa.
++ Sem que o médico _dê_ (dar) autorização, o Rui não _pode_ (poder) sair de casa.
   Sem o médico dar autorização, o Rui não _pode_ (poder) sair de casa.
-+ Caso vocês queiram (querer) ir à festa, avisem (avisar) com antecedência!
-  No caso de quererem ir à festa, avisem com antecedência!
++ Caso vocês _queiram_ (querer) ir à festa, _avisem_ (avisar) com antecedência!
+  No caso de _quererem_ ir à festa, _avisem_ com antecedência!
 
 #exercise
 
@@ -509,3 +545,4 @@ Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semel
 + Para que
 + a fim de
 + a fim de que 
+]
