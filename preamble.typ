@@ -1,7 +1,10 @@
+#import "@preview/hydra:0.6.2": hydra
+
 #let conf(
   title: none, 
   authors: (), 
   paper-size: "a4", 
+  mobile: false,
   abstract: none, 
   // Content of the document
   body
@@ -59,12 +62,30 @@
   set page(
     header: {
       context if here().page() > 0 {
-        align(right + horizon, title) 
+        // align(right + horizon, title) 
+        let s = hydra(1, skip-starting: false, display: (_, it) => {it.body})
+        if calc.odd(here().page()) {
+          align(right + horizon, [#s]) 
+        } else {
+          align(right + horizon, [#s]) 
+        }
       }
     },
     numbering: "1",
     number-align: right,
   )
+
+  set page(
+    header: {
+      context if here().page() > 0 {
+        let s = hydra(1, skip-starting: false, display: (_, it) => {it.body})
+        align(center + horizon, [#s]) 
+        
+      }
+    },
+    numbering: "1",
+    number-align: center,
+  ) if mobile
 
   pagebreak(weak: true)
   {

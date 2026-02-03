@@ -19,6 +19,18 @@ jobs:
       - name: Rename PDF file
         run: mv main.pdf portugues_em_foco_3.pdf
 
+      - name: Typst (mobile)
+        uses: lvignoli/typst-action@main
+        with:
+          source_file: main.typ
+          options: |
+            --input
+            paper=a6
+
+      - name: Rename mobile PDF file
+        run: mv main.pdf portugues_em_foco_3_mobile.pdf
+
+
       #- name: Upload PDF file
       #  uses: actions/upload-artifact@v4
       #  with:

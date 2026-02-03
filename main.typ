@@ -6,6 +6,11 @@
 #if has_paper {
   paper = sys.inputs.at("paper")
 } 
+#let mobile=false
+#if paper == "a5" or paper == "a6" {
+  mobile=true
+}
+
 #let include_tests=false
 #if "include_tests" in sys.inputs.keys() {
   if sys.inputs.at("include_tests") == "true" {
@@ -22,7 +27,8 @@
   authors: (
     "Tom Vercauteren"
   ),
-  paper-size: paper
+  paper-size: paper,
+  mobile: mobile
 )
 
 #include "unidade_00.typ"
