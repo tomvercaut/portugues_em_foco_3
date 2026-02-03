@@ -71,6 +71,7 @@
       - to point out (wijzen op)
       - dar destaque a
     ],
+    [o destaque], [to highlight, de aandacht vestigen op],
     [a legalidade], [legality, legitimacy, wettelijkeheid],
     [a intervenção], [
         - interventie
@@ -80,8 +81,8 @@
         - afgebakend fenomeen
         - beperkt fenomeen
     ],
-    // [], [],
-    // [], [],
+    [uma designação], [iets een naam geven ],
+    [o intuito], [intensie, doel],
     // [], [],
   )
 )
@@ -90,4 +91,30 @@
 
 #set_exercise_counter(0)
 
+#exercise
+
++ diferenciar: distingir, separar, discriminar, onderscheiden
++ denominar: 
+  - nomear, designar, chamar
+  - atribuir um nome ou uma designação a algo
++ atentado ao património: 
+  - vandalismo
+  - um ato que danifica, destrói ou põe em risco bens patrimoniais, sobretudo aqueles com valor histórico, cultural, artístico ou público.
++ salientar: dar destaque a
++ o agudizar dos problemas:
+  - o agravamento dos problemas
+  - o aumento da gravidade
+  - a intensificação dos problemas
++ o fenómeno circunscrito: 
+  - É algo que não acontece de forma geral, mas apenas num contexto específico, como um lugar, grupo, período ou situação.
+  - um fenómeno limitado, restrito ou bem delimitado
+
+#exercise
+
++ pichação
++ intuito
++ todavia
++ contravenção
++ profusão
++ indecifrável
 
