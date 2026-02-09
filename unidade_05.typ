@@ -83,7 +83,7 @@
     ],
     [uma designação], [iets een naam geven ],
     [o intuito], [intensie, doel],
-    // [], [],
+    [pinchação], [het schrijven / maken van symbolen of tags (kan monochromatisch)],
   )
 )
 
@@ -118,3 +118,9 @@
 + profusão
 + indecifrável
 
+#exercise
+
++ A arte urbana é uma forma de expressão visual em que pessoas tentam de melhorar um bairro com arte. A arte é pintada frequentamente nos muros ou espaços públicos. A expressão resulta-se em obras ou trabalhos artisticas.
++ A pichação é uma maneira para criar _tags_. Não tem o objetivo de ser bonito ou agradavel para o espectador. Faz parte de uma contracultura em que pessoas exprimem crítica à sociedade, ao político e ao estado.
++ Numa fase inicial, os marcadores feitam as caligrafias indecifrável. Com tempo, as competências dos marcadores melhoraram e evoluiram novos estilos. Após grupos das pessoas, pintam em áreas da cidade com mais visibilidade. As obras desenvolveu-se na direção artística.
++ Na Belgíca, há muitas localizações onde viu grafíti e pichação. Em Gand, há várias paredes / vários muros de casas, lojas e restaurantes que têm obras artisticas em grafíti. No centro da cidade existe uma rua dedicada à grafíti. Ao outro lado viu também muitas pichações em pontas, fachadas de casas e lojas. 
