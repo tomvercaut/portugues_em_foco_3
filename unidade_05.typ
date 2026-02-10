@@ -84,6 +84,88 @@
     [uma designação], [iets een naam geven ],
     [o intuito], [intensie, doel],
     [pinchação], [het schrijven / maken van symbolen of tags (kan monochromatisch)],
+    [o pseudónimo], [pseudoniem],
+    [efémero/a], [- iets van korte duur
+                  - transient
+                  - iets dat maar een dag duurt / leeft],
+    [a mutação], [- een mutatie
+                  - o ato ou efeito de mudar
+    ],
+    [imparável], [
+      - que não para
+      - que não é possível interromper
+    ],
+    [o gabinete], [
+      - kabinet
+      - werkruimte aparte van de andere bureaus
+    ],
+    [contemplar], [
+      - absorver-se no exame ou observação de
+      - observar atentamente
+      - olhar com admiração
+      - meditar sobre
+      - considerar seriamente
+      - imaginar
+    ],
+    [a génese], [
+      - genesis
+      - origin
+      - inception
+    ],
+    [o anseio], [
+      - a aflição
+      - o desejo
+      - verlangen / wens
+    ],
+    [evoluir], [evolueren, ontwikkelen],
+    [a perceção], [perceptie],
+    [polémico], [
+      - controversieel
+      - polemiek
+    ],
+    [ovni], [UFO],
+    [a ascensão], [
+      - uma ação de subir
+      - elevação
+    ],
+    [o resquício], [
+      - fragamento
+      - vestígio
+      - residu
+      - iets wat overblijft, iets klein
+    ],
+    [a espécie], [
+      - soort (taxonomie)
+      - type, sort, kind (een type, een soort)
+    ],
+    [o cartaz], [
+      - poster
+      - de lineup van een concert
+    ],
+    [a camada], [een laag (layer)],
+    [sobreposta], [wat overlapt met iets anders],
+    [degradado], [
+      - que foi destituído do seu cargo
+      - danificado
+      - estragado
+    ],
+    [devoluto], [
+      - leeg
+      - ongebruikt
+    ],
+    [fisionomia], [
+      - aparência
+      - traços do rosto
+    ],
+    [hostil], [
+      - adverso
+      - inimigo
+      - desagradável
+      - agressivo
+    ],
+    [o cinzel], [chisel],
+    [lixívia], [bleekwater (lye, alkaline oplossing)],
+    // [], [],
   )
 )
 
@@ -124,3 +206,91 @@
 + A pichação é uma maneira para criar _tags_. Não tem o objetivo de ser bonito ou agradavel para o espectador. Faz parte de uma contracultura em que pessoas exprimem crítica à sociedade, ao político e ao estado.
 + Numa fase inicial, os marcadores feitam as caligrafias indecifrável. Com tempo, as competências dos marcadores melhoraram e evoluiram novos estilos. Após grupos das pessoas, pintam em áreas da cidade com mais visibilidade. As obras desenvolveu-se na direção artística.
 + Na Belgíca, há muitas localizações onde viu grafíti e pichação. Em Gand, há várias paredes / vários muros de casas, lojas e restaurantes que têm obras artisticas em grafíti. No centro da cidade existe uma rua dedicada à grafíti. Ao outro lado viu também muitas pichações em pontas, fachadas de casas e lojas. 
+
+#skip_exercise
+#skip_exercise
+
+#exercise
+
++ antecessor e precursor
++ pseudónimos
++ apreciadas
++ constante mutação
++ praticada no exterior
++ seus anseios
++ caráter lúdico
++ tendo evoluído
++ vale a pena preservar
+
+#exercise
+
++ fume
++ afirme
++ acreditam
++ acreditam
++ se recuse
++ se esforçe
+
+#exercise
+
++ urbano: 
+  - próprio de cidade
+  - que diz repeito à cidade
+  - uma pessoa que vive na cidade
++ ascensão: uma ação de subir / elevação
++ resquício: fragamento, vestígio
++ degradado:
+  - que foi destituído do seu cargo
+  - danificado
+  - estragado
++ edifício devoluto: um edifício que não é utilisado por ninguém
++ afetar: impressionar, atingir
++ fisionomia: 
+  - aparência
+  - traços do rostoaparência
++ hostil:
+  - adverso
+  - inimigo
+  - desagradável
+  - agressivo
+
+#exercise
+
++ O ambiente tornou-se _hostil_ depois da discussão, e ninguém se sentia à vontade para falar.
++ Restava um resquício de comida no prato.
++ Eu não tenho as competências para criar arte urbana.
++ A ascensão da empresa foi rápida.
++ Os testes afetam o resultado no fim do ano.
+
+#exercise
+
++ Arte urbana é um conjunto de manifestações artísticas feitas no espaço público, geralmente nas ruas da cidade. 
+  Ela inclui murais, grafites, #sym.dots;.
+  Mas às vezes as artistas usam outro materias, por exemplo: cinzel, martelos, produtos químicos.
++ Sim, grafíti faz parte da arte urbana. 
+  Arte urbana é um conjunto de manifestações artísticas feitas no espaço público.
+  Quando uma pessoa não tem a autorização do proprietário para alterar a sua propriedade, podemos descrever isso como vandalismo.  
++ O Vhils usa diferentes tipos de materias:
+  - grafiti
+  - martelos
+  - martelos pneumáticos
+  - cinzel
+  - explosivos
+  - lixívia
+  - produtos de limpeza
+  - ácidos corrosivos
+  - borra de café
++ Ele diz que sem arte urbana o espaço público não tem uma coração ou exprime pouco.
+  Introduzir a arte, dá um espaço público uma identidade humana.
+
+#skip_exercise
+
+#exercise
+
++ sugestão 
++ Fazer o percurso
++ andar de carro
++ transitar
++ atravessar
++ nariz no ar
++ vadiem
