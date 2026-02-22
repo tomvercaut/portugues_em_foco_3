@@ -565,31 +565,31 @@ Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semel
 
 #exercise_no_number[Gramática adicional: Completar as seguintes frases com os verbos conjugados no tempo adequado.]
 
-+ Tem cuidado, Antônio. Não _ponha_ (pôr) demasiado açúcar no café.
-+ Os presentes só _abrirão_ (abrir) depois de todos _estão chegaados_ (chegados).
-+ Nos últimos tempos, os consumidores portugueses _mostrava-se_ (mostrar-se) mais conscientes do seu direito de reclamação.
++ Tem cuidado, Antônio. Não _ponhas_ (pôr) demasiado açúcar no café.
++ Os presentes só _são abertos_ (abrir) depois de todos _chegarem_ (chegados).
++ Nos últimos tempos, os consumidores portugueses _mostraram-se_ (mostrar-se) mais conscientes do seu direito de reclamação.
 + É lamentável que muitas pessoas _aceitem_ (aceitar) com resignação uma má presentação de um serviço.
-+ Desculpa, mas exijo que me _traria_ (trazer) o Livro de Reclamações.
++ Desculpa, mas exijo que me _traga_ (trazer) o Livro de Reclamações.
 + Não acredito que a Isabel _faça_ (fazer) esse reclamação pr escrito.
-+ Eu teria desistido da queixa, se o dinheiro _devolva_ (devolver) na totalidade.
++ Eu teria desistido da queixa, se o dinheiro _fosse devolvido_ (devolver) na totalidade.
 + Se todos nós _comprássemos_ (comprar) mais produtos nacionais, seria bom para a economia do país.
-+ Normalmente as pessoas esperam muito tempo para _atenderem_ (atender) nos serviços públicos.
++ Normalmente as pessoas esperam muito tempo para _serem atendidos_ (atender) nos serviços públicos.
 + Pois. Agora estás com frio! Mas eu bem te _disse_ (dizer) que _trouxesses_ (trazer) roupa mais quente.
 
 #exercise_no_number[Reescreve as seguintes frases na voz passiva.]
 
 + Devido que eles tenham resolvido esse problema.\
-  Duvido que esse problema _tinha sido resolvido por eles._
+  Duvido que esse problema _tenha sido resolvido por eles._
 + Os consumidores devem exigir um bom serviço público.\
-  _Um bom serviço público deve sido exigido pelos consumidores_.
-+ Só me devolveram o dinheiro, depois de ter pedido o Livro de Exclamações.\
-  _O dinheiro só foi devolvido, depois de ter pedido o Livro de Exclamações._
+  _Um bom serviço público deve ser pelos consumidores_.
++ Só me devolveram o dinheiro, depois de ter pedido o Livro de Reclamações.\
+  _O dinheiro só foi devolvido, depois de ter pedido o Livro de Reclamações._
 + Para que possamos concretizar os nossos projetos, temos de pedir um empréstimo.\
   _Para que os nossos projetos possam ser concretizados, tem de ser pedido um empréstimo._
 + Muitas pessoas consideram a globalização como uma ameaça. \
   _A globalização foi considerado pelas muitas pessoas como uma ameaça._
 + Na próxima semana apresentaremos esse projeto à comunidade empresarial.\
-  _Esse projeto será apresentatodo na próxima semana à comunidade empresarial._
+  _Esse projeto será apresentado na próxima semana à comunidade empresarial._
 + Se nos tivessem oferecido outras condições, teríamos aceitado o negócio.\
-  _Se outras condições nos tivessem sido ofericidas, o negócio tería sido aceitado._
+  _Se outras condições nos tivessem sido ofericidas, o negócio tería sido aceite._
 
