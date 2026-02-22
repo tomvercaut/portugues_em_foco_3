@@ -6,7 +6,10 @@
 #vocab(
   rows:
   (
-    [o bailarico], [Een danspartij, een plaats waar gedanst wordt.],
+    [o bailarico], [
+      - Een danspartij, een plaats waar gedanst wordt.
+      - O evento onde pessoas dançam
+    ],
     [o altar], [altaar],
     [o casamenteiro], [matchmaker tussen 2 personen],
     [patrocinar], [dar apoia a, promover (sponseren, (financieel) steunen)],
@@ -29,7 +32,7 @@
     [o festejo], [een viering, iets dat gevierd wordt],
     [a folia], [
         - festejo animado e ruidoso
-        - de gekhei
+        - de gekheid
     ],
     [recuar], [ir para atrás (terug gaan in de tijd)],
     [a fogueira], [monte de lenha no qual se ateia fogo (groot vuur, kampvuur)],
@@ -38,7 +41,10 @@
     [rocaille], [rococo],
     [o brasão / os brasões], [wapenschild, emblema de família nobre],
     [acolá], [lá, naquele lugar, over there, daar],
-    [sumptuosa], [weelderig],
+    [sumptuosa], [
+      - weelderig
+      - luxuoso
+    ],
     [enobrecido], [veredeld],
     [o pórtico], [het portiek, de poort],
     [adiante], [verderop],
@@ -57,6 +63,11 @@
                     ],
     [Todos os Santos], [allerheiligen],
     [Fiéis Defuntos], [allerzielen],
+    [adornar], [
+      - enfeitar
+      - ornamentar
+      - decorar
+    ],
     [decorar], [- adornar
                 - enfeitar
                 - ornamentar
@@ -68,7 +79,10 @@
     [largar], [loslaten],
     [a beira], [de oever],
     [o foz], [riviermonding],
-    [abençoar], [zegenen],
+    [abençoar], [
+      - zegenen
+      - dar bênções
+    ],
     [após], [depois de],
     [o pregão / os pregões], [(smeek)bede],
     [dar o nó], [casar],
@@ -160,8 +174,11 @@
       - voortaan zijn
       - overgaan in
     ],
-    // [], [],
-    // [], [],
+    [a casa senhorial], [uma casa grande (herenhuis)],
+    [o casario], [
+      - alglomeração de casas
+      - aglomerado
+    ],
     // [], [],
     // [], [],
     // [], [],
