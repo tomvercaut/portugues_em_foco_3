@@ -56,5 +56,10 @@
   (
     key: "fc",
     short: "Futuro do Conjuntivo"
+  ),
+  (
+    key: "ddlp",
+    short: "Dicionário da Língua Portuguesa",
+    long: "Dicionário da Língua Portuguesa Academia das Ciencias de Lisboa",
   )
 )

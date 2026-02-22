@@ -1,4 +1,4 @@
-#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox, checkbox, indent, bold
+#import "./common.typ": vocab, exercise, set_exercise_counter, skip_exercise, exercise_no_number, presente_do_conjuntivo, presente_do_indicativo, modo_imp, ppsi, pic, pii, cond, fc, nao, Nao, cao, ha, sao, Sao, ao, oe, oes, so, So, e, E, em, cca, ccao, messagebox, checkbox, indent, bold, ddlp
 
 = Unidade 5: Se as paredes falassem
 == Vocabulário
@@ -165,6 +165,20 @@
     ],
     [o cinzel], [chisel],
     [lixívia], [bleekwater (lye, alkaline oplossing)],
+    [receoso/a], [
+      - Que tem receio.
+      - Temor da realização de um facto que pode ter consequências adversas.
+      - Que manifesta incerteza, dúvida.
+    ],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
   )
 )
@@ -294,3 +308,61 @@
 + atravessar
 + nariz no ar
 + vadiem
+
+#exercise_no_number[Expressões idiomáticas]
+
++ Passar pelas brasas.\
+  Dormir um bocadinho (depois o almoço) / sesta. 
++ Dar água pela barba.\
+  Algo que dá  enormes dificuldades a alguém.
++ À grande e à francesa.\
+  Festajar em grande luxo.
++ Ficar em águas de bacalhau.\
+  - malograr-se (falen)
+  - permanecer tudo na mesma
+  - não dar nada
+  - não dar resultado
+
+  A origem desta expressão remete para a atividade piscatória dos bacalhoeiros nos mares do Atlântico Norte, lugar onde bastantes barcos naufragavam. Deste modo, os barcos que afundavam acabavam por ficar em águas de bacalhau. #link("https://dicionario.acad-ciencias.pt/curiosidades/ficar-em-aguas-de-bacalhau/")[#ddlp]
++ Andar nas nuvens.\
+  Estar distraido (afgeleid zijn)
++ Ir de vento em popa.\
+  Ter prosporidade.\
+  De wind in de zeilen hebben.
++ Andar aos papéis.\
+  Estar consufo.\
++ Chão que deu uvas.
+  O negocio foi rendável mas não é.
++ Ter dor de cotovelo.\
+  Estar envesja.\
+  Invejoso
++ Fazer das tripas coração.\
+  Fazer o melhor.\
+  Dar o máximo.
++ Com uma perna às costas.\
+  Com muito facilidade, sem esforço.
++ Andar com o credo na boca.\
+  Andar com muito receio / receoso.
++ Sol de pouca dura.\
+  Coisas feliz / boas não dura durante muito tempo.
++ Chegar a mostrada ao nariz.\
+  Indica que alguém está prestes a perder a paciência ou atingiu o limite de irritação
++ Fazer horas.\
+  Não está a fazer muita coisa.
++ Remar contra a maré.\
+  Ir ão contrário.\
+  Deviar do caminho normal.
++ Levar a carta a Garcia.\
+  Atingir algo difícil. \
+  É um caminho muito longo.
++ Ir aos arames.\
+  Ficar zangado / furioso.
++ Meter a viola no saco.\
+  Acabar / terminar\
+  Aceitar que é melhor parar.
++ Falar com os seus botões.\
+  Refletir em silencio.\
+  Falar consigo mesmo.
++ Trazer água no bico.\
+  Não tem confiança em.\
+  Uma pessoa sem confiança.
