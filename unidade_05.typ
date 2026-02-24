@@ -392,6 +392,47 @@
 + _Oxalá_ os meus amigos _se lembrem_ (lembrar-se) do meu aniversário. Quero fazer um jantar em minha casa!
 + Não tive tempo de fazer nenhuma sobremesa para a festa. _Quem me dera que_ os meus convidados _tragam_ (trazer) alguma coisa doce!
 
+#exercise
+
+O casamento tradicional em Portugal é diferente do casamento na Belgíca. 
+No início do dia, os noivos têm o pequeno almoço com as suas proprias famílias em casa dos pais deles. 
+Depois há uma cerimónia na igreja onde os noivos assinam os documentos oficias.
+Não precisam ir à Câmara Municipal por isso.
+Depois, há uma grande recepção ou almoço com muita comida.
+Os recém-casados tiram fotos durante a tarde.
+À noite, há um jantar delicioso com muita comida.
+Normalmente, há mais do que um prato principal.
+Após começa a festa de dançar que dura até o madrugada.
+Durante a noite, há várias pequenos pratos com sopa, queixo e doces
+
+#exercise
+
+No ano passado, fui a um casamento em Portugal, na região de Guimarães. 
+Os recém-casados já tinham se casado oficialmente na Bélgica, mas houve uma cerimónia com a família e os amigos.
+Depois, houve uma grande recepção com uma profusão de comida.
+Os recém-casados tiraram fotos durante a tarde.
+Todos recebemos um pequeno presente no início da cerimónia para indicar onde nos sentaríamos à mesa de jantar.
+O jantar foi delicioso com várias pratos típicos.
+Depois dançámos até o madrugada.
+Para nos sustentar, comíamos pequenos pratos durante a noite.
+Uma deles era uma francesinha.
+
+#exercise
+
+O nosso plano inicial era casar em Portugal, mas não tivemos tempo para organizar tudo a tempo. 
+Por isso, fizemos um casamento íntimo na Bélgica, com a família e alguns amigos.
+
+#exercise
+
+Só fui a uma despedida de solteiro na Bélgica. 
+Jogámos alguns jogos tradicionais antigos e bebemos uns copos.
+
+#exercise
+
+Gostaríamos de passar a nossa lua de mel num lugar ensolarado.
+Ainda não decidimos para onde ir. 
+Sei que a minha esposa já mencionou as Maldivas, mas nada foi decidido ainda.
+
 #exercise_no_number[Expressões idiomáticas]
 
 + Passar pelas brasas.\
