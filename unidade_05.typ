@@ -384,6 +384,14 @@
 + nariz no ar
 + vadiem
 
+#exercise
+
++ _Oxalá_ eu não _fique_ (ficar) doente nas férias!
++ _Tomara que_ ela _ganhe_ (ganhar) o jogo. Treinou tanto!
++ _Quem me dera que_ ele não _se esqueca_ (esquecer-se) da chave! É tão distraído!
++ _Oxalá_ os meus amigos _se lembrem_ (lembrar-se) do meu aniversário. Quero fazer um jantar em minha casa!
++ Não tive tempo de fazer nenhuma sobremesa para a festa. _Quem me dera que_ os meus convidados _tragam_ (trazer) alguma coisa doce!
+
 #exercise_no_number[Expressões idiomáticas]
 
 + Passar pelas brasas.\
