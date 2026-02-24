@@ -581,13 +581,13 @@ Na véspera de Natal e no dia de Natal, comemos sempre dois doces que são semel
 + Devido que eles tenham resolvido esse problema.\
   Duvido que esse problema _tenha sido resolvido por eles._
 + Os consumidores devem exigir um bom serviço público.\
-  _Um bom serviço público deve ser pelos consumidores_.
+  _Um bom serviço público deve ser exigido pelos consumidores_.
 + Só me devolveram o dinheiro, depois de ter pedido o Livro de Reclamações.\
   _O dinheiro só foi devolvido, depois de ter pedido o Livro de Reclamações._
 + Para que possamos concretizar os nossos projetos, temos de pedir um empréstimo.\
   _Para que os nossos projetos possam ser concretizados, tem de ser pedido um empréstimo._
 + Muitas pessoas consideram a globalização como uma ameaça. \
-  _A globalização foi considerado pelas muitas pessoas como uma ameaça._
+  _A globalização foi considerada pelas muitas pessoas como uma ameaça._
 + Na próxima semana apresentaremos esse projeto à comunidade empresarial.\
   _Esse projeto será apresentado na próxima semana à comunidade empresarial._
 + Se nos tivessem oferecido outras condições, teríamos aceitado o negócio.\
