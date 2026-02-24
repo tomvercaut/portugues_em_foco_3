@@ -225,6 +225,32 @@
       - er zijn mensen die
     ],
     [o segredo], [uma coisa secreta, een geheim],
+    [Quem me dera que], [
+      - Was het maar zo dat #sym.dots
+      - Ik wou dat #sym.dots
+      - Had ik maar #sym.dots
+      - I wish that #sym.dots
+      - If only #sym.dots
+    ],
+    [Tomara que], [
+      - Hopelijk #sym.dots
+      - Ik hoop dat #sym.dots
+      - Laat het alsjeblieft zo zijn dat #sym.dots
+    ],
+    [Deus queira que], [
+      - Moge God het zo willen dat #sym.dots
+      - Hopelijk #sym.dots
+    ],
+    [Oxalá], [
+      - Hopelijk #sym.dots
+      - Moge het zo zijn #sym.dots
+    ],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
     // [], [],
     // [], [],
@@ -267,7 +293,7 @@
 
 + A arte urbana é uma forma de expressão visual em que pessoas tentam de melhorar um bairro com arte. A arte é pintada frequentamente nos muros ou espaços públicos. A expressão resulta-se em obras ou trabalhos artisticas.
 + A pichação é uma maneira para criar _tags_. Não tem o objetivo de ser bonito ou agradavel para o espectador. Faz parte de uma contracultura em que pessoas exprimem crítica à sociedade, ao político e ao estado.
-+ Numa fase inicial, os marcadores feitam as caligrafias indecifrável. Com tempo, as competências dos marcadores melhoraram e evoluiram novos estilos. Após grupos das pessoas, pintam em áreas da cidade com mais visibilidade. As obras desenvolveu-se na direção artística.
++ Numa fase inicial, as pessoas feitam as caligrafias indecifrável. Com tempo, as competências melhoraram e evoluiram novos estilos. Após grupos das pessoas, pintam em áreas da cidade com mais visibilidade. As obras desenvolveu-se na direção artística.
 + Na Belgíca, há muitas localizações onde viu grafíti e pichação. Em Gand, há várias paredes / vários muros de casas, lojas e restaurantes que têm obras artisticas em grafíti. No centro da cidade existe uma rua dedicada à grafíti. Ao outro lado viu também muitas pichações em pontas, fachadas de casas e lojas. 
 
 #skip_exercise
