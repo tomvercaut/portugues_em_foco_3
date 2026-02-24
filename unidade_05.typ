@@ -16,7 +16,13 @@
         - art style
     ],
     [identificar], [identificeren],
-    [contravenção], [overtreding],
+    [a contravenção], [
+      - overtreding
+      - infração
+    ],
+    [a infração], [
+      - overtreding van een regel of wet
+    ],
     [o tema], [thema],
     [adquirir], [
         - to acquire, get, obtain, procure, verkrijgen
@@ -27,19 +33,43 @@
         - verwarren
         - vergissen
     ],
-    [a pichação], [inscrição em muros ou portas (graffiti)],
+    [pichar], [
+      - rabiscar (krabbelen)
+      - bekladden
+    ],
+    [a pichação], [
+      - krabbel, zonder te kunnen tekenen of schilderen
+      - inscrição em muros ou portas (graffiti)
+    ],
     [a visão / as visões], [
         - faculdade de ver (zien)
         - ilusão visual, imagem (vizioen, droom, iets dat je je inbeeld)
+        - opinão
         - ponto de vista (oogpunt, perspectief, point of view)
+    ],
+    [denominar], [
+      - colocar nome em algo ou alguém
+      - definir
+      - een naam geven aan, benomen
     ],
     [o denomina], [to call, to name, to denominate, benoemen],
     [o vandalismo], [vandalisme],
-    [o grafiteiro], [de graffiti artiest / de persoon die graffiti spuit],
-    [diferenciar], [onderscheiden],
+    [o grafiteiro], [
+      - ele que faz o grafíti
+      - de graffiti artiest / de persoon die graffiti spuit
+    ],
+    [diferenciar], [
+      - distingir
+      - separar
+      - discriminar
+      - onderscheiden
+    ],
     [contracultura], [cultuur die zich verzet tegen de waarden en levenstijl van de maatschappij],
     [a criatividade], [creativiteit],
-    [a profusão], [een grote hoeveelheid, overvloed],
+    [a profusão], [
+      - abundancia
+      - een grote hoeveelheid, overvloed
+    ],
     [a caligrafia], [kaligrafie],
     [indecifrável], [onleesbaar, kan niet ontcijferd worden],
     [o estilo], [stijl],
@@ -53,8 +83,8 @@
     [expressiva], [expressief],
     [contemporãneo], [hedendaags],
     [arrojar], [
-        - kruipen
         - durven
+        - kruipen
         - gooien
         - jezelf gooien
     ],
@@ -69,6 +99,10 @@
     ],
     [salientar], [
       - to point out (wijzen op)
+      - acentuar
+      - dar ênfase a
+      - enfatizar
+      - realçar
       - dar destaque a
     ],
     [o destaque], [to highlight, de aandacht vestigen op],
@@ -77,12 +111,19 @@
         - interventie
         - operatie
     ],
+    [circunscrito], [
+      - toegeschreven
+      - toegewezen
+    ],
     [o fenómeno circunscrito], [
         - afgebakend fenomeen
         - beperkt fenomeen
     ],
     [uma designação], [iets een naam geven ],
-    [o intuito], [intensie, doel],
+    [o intuito], [
+      - objetivo
+      - intensie, doel
+    ],
     [pinchação], [het schrijven / maken van symbolen of tags (kan monochromatisch)],
     [o pseudónimo], [pseudoniem],
     [efémero/a], [- iets van korte duur
@@ -170,12 +211,20 @@
       - Temor da realização de um facto que pode ter consequências adversas.
       - Que manifesta incerteza, dúvida.
     ],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
+    [agudizar], [
+      - piorar
+      - agravar
+      - tornar mais agudo
+      - verergern, erger worden
+    ],
+    [apropriar], [toeeigenen],
+    [o marcador ], [markeerstift],
+    [dar mais vida], [dar mais ambiente],
+    [há quem], [
+      - there are those who
+      - er zijn mensen die
+    ],
+    [o segredo], [uma coisa secreta, een geheim],
     // [], [],
     // [], [],
     // [], [],
