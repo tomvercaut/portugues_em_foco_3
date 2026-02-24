@@ -37,8 +37,8 @@
 #include "unidade_03.typ"
 #include "unidade_04.typ"
 #include "unidade_05.typ"
-#include "conjuntivo.typ"
-#include "preposicoes.typ"
+// #include "conjuntivo.typ"
+// #include "preposicoes.typ"
 
 
 #if include_tests {
