@@ -245,7 +245,14 @@
       - Hopelijk #sym.dots
       - Moge het zo zijn #sym.dots
     ],
-    // [], [],
+    [salto], [
+      - springen
+      - sprong
+      - afstand of hoogte die overbrugd wordt door te springen
+      - waterval in een rivier
+      - hak in de schoen
+      - overval, diefstal of plundering
+    ],
     // [], [],
     // [], [],
     // [], [],
@@ -490,3 +497,30 @@ Sei que a minha esposa já mencionou as Maldivas, mas nada foi decidido ainda.
 + Trazer água no bico.\
   Não tem confiança em.\
   Uma pessoa sem confiança.
+
+#exercise_no_number[Revisão gramatical: pronomes (Fonte Hoje em dia, Lidel, adaptado)]
+
++ Diz já *o teu nome*!\
+  Já *o* diz!
++ Eu teria comprado *a tal enciclopédia*, se não fosse tão cara.\
+  Eu teria *a* comprado, se não fosse tão cara.
++ Eles escreveriam *aos amigos*, se soubessem o endereço.\
+  Eles escreveriam*-lhes*, soubessem o endereço.
++ Se eu te pedisse, trar-me-ias *a encomenda* dos Correios? Obrigada.\
+  Se eu te pedisse, trar-*ma*-ias dos Correios? Obrigada.
++ Não me agradeças. Fiz *isso* com muito gosto.\
+  Não me agradeças. *Fí-lo* com muito gosto.
++ Penso que ela emprestará *o livro ao colega*.\
+  Penso que ela *lho* emprestará.
++ Eles terão visto *o filme*?\
+  Eles terão-*no* visto?
++ Ela quer *o assunto* resolvido quanto antes.\
+  Ela *quere-o* resolvido quanto antes.
++ Pediram *as cópias à professora*?\
+  Pediram*-lhas*?
++ Não quis fazer *estes exercícios extremamente difíceis*.\
+  Não *os* quis fazer.
++ O diretor nem sempre dizia *aos empregados o que esperava deles*.\
+  O diretor nem sempre *lhes* dizia *o que esperava deles*.
++ Perdoaste *a mentira ao João e à Nina*?\
+  Perdoaste*-lha*?
