@@ -156,7 +156,13 @@
     [o anseio], [
       - a aflição
       - o desejo
+      - o medo
       - verlangen / wens
+    ],
+    [o retrato], [portret],
+    [assumir], [
+      - aannemen
+      - to assume
     ],
     [evoluir], [evolueren, ontwikkelen],
     [a perceção], [perceptie],
@@ -172,6 +178,7 @@
     [o resquício], [
       - fragamento
       - vestígio
+      - traços
       - residu
       - iets wat overblijft, iets klein
     ],
@@ -180,6 +187,7 @@
       - type, sort, kind (een type, een soort)
     ],
     [o cartaz], [
+      - affiche
       - poster
       - de lineup van een concert
     ],
@@ -253,10 +261,52 @@
       - hak in de schoen
       - overval, diefstal of plundering
     ],
-    // [], [],
-    // [], [],
-    // [], [],
-    // [], [],
+    [o tonto], [um estúpido],
+    [infraquecer], [verzwakken],
+    [desfarçar / disfarçar], [
+      - to change the appearance, to disguise
+      - to pretend that (something) isn't happening or did not happen
+    ],
+    [rodear], [
+      - to surround, to encircle
+      - to move around something
+    ],
+    [alem disso], [
+      - daar en boven
+      - in addition, moreover, besides, furthermore, to boot
+    ],
+    [ou seja], [
+      - anders gezegd
+      - allé
+      - that is (used to introduce a clarification or explanation)
+    ],
+    [usufrir], [
+      - aproveitar
+      - to enjoy
+    ],
+    [bafejar], [
+      - to breathe into
+      - to stimulate
+      - to favor
+      - to exhale
+      - geluk / verwend zijn
+    ],
+    [precursor], [
+      - que vai adiante
+      - que anuncia com antecipação, o anunciador
+    ],
+    [antecessor], [
+      - o que vem antes
+      - predecessor
+      - aquele que precedeu alguém em certa função, cargo, #sym.dots
+    ],
+    [disseminar], [espalhar-se],
+    [a isenção], [
+      - de uitsluiting (exemption)
+      - de afwezigheid
+    ],
+    [há quem], [er zijn (personen) #sym.dots],
+    [o acabamento], [de afwerking],
     // [], [],
     // [], [],
     // [], [],
@@ -524,3 +574,33 @@ Sei que a minha esposa já mencionou as Maldivas, mas nada foi decidido ainda.
   O diretor nem sempre *lhes* dizia *o que esperava deles*.
 + Perdoaste *a mentira ao João e à Nina*?\
   Perdoaste*-lha*?
+
+
+#exercise_no_number[Transforme a frase dada, começando como indicado e não alterando o sentido.]
+
++ Este tipo de arte serve para que os autores possam expressar a sua opinão sobre o que os rodeia.\
+  *Emborar* muitas pessoas achem que o grafíti é pichação, este tipo de arte serve para que os autores possam expressar a sua opinão sobre o que os rodeia.
++ É também através desta expressão artística que divulgam mensagens sobre o que sentem, muitas vezes como se fossem poemas, mas na forma de desenho.\
+  *Ele disse que* era também através desta expressão artística que divulgavam mensagens sobre o que sentiam, muitas vezes como se fossem poemas, mas na forma de desenho.
++ É uma pintura bonita. Passo por aqui todos os fins de semana e nunca me canso de a admirar. Há gente como muito talento. Não há duvida!\
+  *Ela confidenciou-nos que* era uma pintura bonita. Passava por alí todos os fins de semana e nunca se cansava de admirar. Havia gente com muito talento. Não há duvida!
++ A obre tem cerca de 20 metros e pode ser vista de longe por quem passa pela principal avenida da cidade.\
+  *Apesar de* ter cerca de 20 metros, a obra pode ser vista de longe por quem passa pela principal.
+
+#exercise_no_number[Complete as frases com o conector mais adequado]
+
+#table(
+  columns: (1fr, 1fr, 1fr, 1fr),
+  //stroke: none,
+  [alem disso], [ou seja], [com o intuito de], [para que],
+  [talvez], [com efeito], [dado que], [apesar de],
+)
+
++ *Apesar de* de Arte Urbana estar em franca expansão, ainda há muitas pessoas que não reconhecem o valor destes artistas.
++ O grupo de estudantes estrangeiros organizou uma visita pela cidade *com o intuito de* fotografarem diversos murais repletos de grafíti.
++ *Talvez* o momento não seja o mais apropriado para falarmos desse assunto.
++ Todo o trabalho foi exposto na galeria *para que* todas as pessoas tivessem a mesma oportunidade de apreciar a obre de artista.
++ Quem passeia pelas ruas pode encontrar arte em cada esquina, *ou seja / dado que* vemos artistas de diferentes dimensões, músicos, workers, malabaristas, homens-estátua, etc.
++ Agora vive-se numa época em que arte faz parte do nosso dia a dia, *ou seja* já não precisamos de nos deslocar a lugares distantes para a podermos apreciar.
++ Desloquei-me a Setúbal para ver o mural de Sérgio Odeith e, *com efeito*, é um trabalho espetacular.
++ Temos os privilégio de ter arte urbana aqui e ali. Somos bafejados pela sorte de termos jovens talentosos e arrojados que se dedicam à arte *alem disso*, também há pessoas que usufruem do resultado deste tipo de arte.
