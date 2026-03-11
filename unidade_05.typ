@@ -277,6 +277,8 @@
     ],
     [ou seja], [
       - anders gezegd
+      - met andere woorden
+      - ofwel
       - allé
       - that is (used to introduce a clarification or explanation)
     ],
