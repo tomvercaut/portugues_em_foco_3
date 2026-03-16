@@ -121,7 +121,7 @@
         - figuurlijk
     ],
     [o perfil], [profiel],
-    // [], [],
+    [o idoso], [de oudere / the elderly],
     // [], [],
     // [], [],
     // [], [],
@@ -166,4 +166,44 @@
 + relutane
 + frustração
 
+#skip_exercise
 
+#exercise
+
++ V
++ V 
++ F\
+  O número de pessoas com mais de 65 anos será 32% da população total em 2060.
++ V
++ F\
+  A esperança de vida para os homens é de 82 anos e de 85 anos para as mulheres.
+
+#exercise
+
++ F\
+  Sol em Sol é um restaurant movel e temporário
++ V
++ F\
+  Os pratos são prontos em uma hora ou 45 minutos.
++ V
+
+#exercise
+
++ ficasses
++ estudassem
++ comesse
++ partíssemos
++ conseguisse
++ fazessem
++ trouxesses
++ viesses
++ vissem
++ chegassem
++ pusesse
+
+#exercise
+
++ Era provável que a Joana chegasse cedo.
++ Era evidente que ele tinha de emagrecer.
++ Era óbvio que ele pagava sempre a conta.
++ Era possível que ele fazesse o jantar para as crianças.
