@@ -122,9 +122,58 @@
     ],
     [o perfil], [profiel],
     [o idoso], [de oudere / the elderly],
-    // [], [],
-    // [], [],
-    // [], [],
+    [catadupa], [
+      - uma grande queda de água corrente (waterval)
+      - grande quantidade (figuurlijk)
+    ],
+    [em catadupa], [em grande quantidade (de forma abundante e em rápida sequência)],
+    [desfrutar], [gozar (to enjoy)],
+    [a despesa], [
+      - o gasto
+      - de (on)kosten
+    ],
+    [ressurgir], [
+      - tornar a aparecer
+      - voltar
+      - terugkeren
+    ],
+    [amenizar], [
+      - tornar ameno (aangenamer maken)
+    ],
+    [par], [
+      - paar
+      - partner
+      - koppel
+    ],
+    [parceiro], [
+      - que faz par com outro (maakt deel uit van een paar)
+      - que não apresenta diferença em relação a outro
+      - semelhante
+      - par
+    ],
+    [o parceiro], [
+      - companion, partner, associate
+    ],
+    [Há de tudo], [
+      - er is vanalles
+      - er is vanalles te vinden
+    ],
+    [passa-palavra], [
+      - informação transmitida de boca em boca
+      - mond op mond (reclame)
+      - het door vertellen van iets
+    ],
+    [vislumbrar], [
+      - illuminar fracamente (glinsteren, schijnen, schitteren)
+      - figurativo: começar a notar, perceber (iets beginnen begrijpen of inzicht krijgen)
+    ],
+    [uníssono], [
+      que tem o mesmo tom de voz (in dezelfde toon #sym.dots)
+    ],
+    [abdicar], [
+      - renunciar alguma coisa
+      - to abdicate
+    ],
     // [], [],
     // [], [],
     // [], [],
@@ -207,3 +256,49 @@
 + Era evidente que ele tinha de emagrecer.
 + Era óbvio que ele pagava sempre a conta.
 + Era possível que ele fazesse o jantar para as crianças.
+
+#exercise
+
++ partilhar casa #sym.arrow.r dividir a casa (e)
++ em catadupa #sym.arrow.r em grande quantidade (c)
++ em curso #sym.arrow.r que está a acontecer (a)
++ desfrutar #sym.arrow.r tirar partido (b)
++ ressurgir #sym.arrow.r acontecer de novo (f)
++ o passa-palavra #sym.arrow.r informação transmitida de boca em boca (d)
+
+#exercise
+
++ Os negócios dos arrendamentos fazem-se _em crescendo_.
++ Partilhar casa é uma forma de _sobrevivência_.
++ O preço das casas no centro é _inacessível_.
++ É mais agradável partilhar casa do que _arrendar_ um quarto.
++ O OLX é um site de classificados _gratuitos_.
++ As pessoas já estavam _habituadas_ a partilhar casa desde o século XIX.
+
+#exercise
+
++ demasiado caras
++ gestor num banco
++ os próximos tempos
++ em uníssono
++ não abdicar
++ quarenta por cento
++ até o conseguia
+
+#exercise
+
++ Eu tive receio que tu não _conseguisses_ (conseguir) encontrar a minha casa.
++ A empregada exigiu que eu lhe _pagasse_ (pagar) as férias.
++ Nós queríamos tanto que ele _viesse_ (vir) vistar-nos no fim de semana!
++ Não gostei nada que ela _lesse_ (ler) a carta sem autorização.
++ Ele receava que o marido _se esquesse_ (esquecer-se) do seu aniversário, mas ele não se esqueceu!
++ Eu pedi-te que _fosses_ (ir) ao correio e _enviasses_ (enviar) a carta ainda hoje, mas tu esqueceste-te!
++ Nós duvidávamos que a criança _trouxesse_ (trazer) a bola, mas ela trouxe-a.
++ Gostava tanto que _houvesse_ (haver) paz no mundo!
++ Quando o João era criança, _quisesse_ (querer) que os pais lhe _deixassem_ (deixar) a luz acesa toda a noite.
++ Ontem, quando vi que o tempo _estivesse_ (estar) tão mau, _receasse_ (recear) que o teu avião não _pudesse_ (poder) aterrar.
++ Antigamente, eu _desejava / desejei_ (desejar) que as férias nunca mais _acabassem_ (acabar).
++ Ontem, disse-te que _preferisse_ (preferir) que não _pusesses_ (pôr) os pés em cima do sofá.
++ No ano passado, eu _duvidei_ (duvidar) que o meu irmão _aprendesse_ (aprender) a jogar xadrez, mas, a final, aprendeu.
++ Na semana passada, o meu pai _pedi_-me que lhe _fizesse_ (fazer) um bolo de frutas.
++ A Maria quer comprar um carro novo, mas o pai prefere que ela _compre_ (comprar) um em segunda mão, porque ela ainda não tem muita experiência a conduzir.
