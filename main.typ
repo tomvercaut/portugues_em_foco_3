@@ -50,3 +50,4 @@
 
 #print-glossary(entrylist)
 
+#bibliography("bib.yaml")

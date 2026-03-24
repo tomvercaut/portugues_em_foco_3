@@ -1,0 +1,15 @@
+plackett2023:
+  type: Article
+  author: 
+    - Plackett R
+    - Sheringham J
+    - Dykxhoorn J
+  title: "The Longitudinal Impact of Social Media Use on UK Adolescents' Mental Health: Longitudinal Observational Study."
+  serial-number:
+    doi: 10.2196/43213
+  date: 2023-03-23
+  parent:
+    type: Periodical
+    title: Journal of Medical Internet Research
+    volume: 25
+    url: https://www.jmir.org

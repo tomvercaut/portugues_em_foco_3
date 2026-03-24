@@ -302,3 +302,7 @@
 + No ano passado, eu _duvidei_ (duvidar) que o meu irmão _aprendesse_ (aprender) a jogar xadrez, mas, a final, aprendeu.
 + Na semana passada, o meu pai _pedi_-me que lhe _fizesse_ (fazer) um bolo de frutas.
 + A Maria quer comprar um carro novo, mas o pai prefere que ela _compre_ (comprar) um em segunda mão, porque ela ainda não tem muita experiência a conduzir.
+
+#exercise
+
+Li um artigo de um estudo que fazia uma investigação do efeito das redes sociais e a saude mental @plackett2023. No total o estudo incluiu 3228 crianças no Reino Unido. Quando as crianças tinham entre 12-13, os investigadores perguntaram-lhes quantos horas passavam nas redes sociais. Quando as crianças tinham entre 13-14, os investigadores perguntaram-lhes à autoestima, ao numero das amizadas e à qualidade destas amizadas. Quando as crianças tinham 14-15, os problemas mentais eram avalidos pelo um teste estandardizado.
