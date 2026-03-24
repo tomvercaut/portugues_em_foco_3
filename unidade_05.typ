@@ -309,6 +309,108 @@
     ],
     [há quem], [er zijn (personen) #sym.dots],
     [o acabamento], [de afwerking],
+    [vadiar], [
+      - to wander
+      - vagabundear
+      - (rond)zwerven
+    ],
+    [ficar de + infinitivo], [
+      - beloven om iets te doen
+      - afspreken om
+      - van plan zijn om
+    ],
+    [ficar de + rol / taak], [
+      ergens verantwoorlijk voor worden
+    ],
+    [ficar por + infinitivo], [
+      - nog te doen
+      - iets moet nog gedaan worden
+    ],
+    [ficar a + infinitivo], [
+      Begin van een handeling:
+      - blijven om te #sym.dots
+      - beginnen te #sym.dots
+    ],
+    [acabar com], [
+      - iets beëindigen
+      - afschaffen
+      - vernietigen
+
+      Wordt gebruikt wanneer je ergens actief een einde aan maakt.
+
+      Exemplos:
+
+      - O governo quer acabar com a corrupção.\
+        #sym.arrow.r De regering wil de corruptie beëindigen.
+      - Ele acabou com o projeto.\
+        #sym.arrow.r Hij heeft het project stopgezet.
+    ],
+    [acabar por], [
+      Uiteindelijk (toch) doen / eindigen met
+
+      Geeft een resultaat na verloop van tijd of een onverwachte uitkomst.
+
+      Exemplos:
+
+      - Acabei por aceitar a proposta.\
+        #sym.arrow.r Uiteindelijk heb ik het voorstel toch geaccepteerd.
+      - Eles acabaram por se separar.\
+        #sym.arrow.r Uiteindelijk zijn ze uit elkaar gegaan.
+    ],
+    [acabar de], [
+      Net iets gedaan hebben
+
+      Wordt gebruikt voor iets dat zojuist is gebeurd.
+
+      Exemplos:
+
+      - Acabei de chegar.\
+        #sym.arrow.r Ik ben net aangekomen.
+      - Ela acabou de sair.\
+        #sym.arrow.r Zij is net vertrokken.
+    ],
+    [passar por], [
+      + ergens langsgaan / passeren\
+        
+        fysiek of figuurlijk “langs iets gaan”
+
+        Exemplos:
+
+        - Vou passar pelo supermercado.\
+          #sym.arrow.r Ik ga langs de supermarkt.
+        - O comboio passa por Coimbra.\
+          #sym.arrow.r De trein gaat via Coimbra.
+      + iets meemaken / doormaken
+
+        heel vaak gebruikt voor ervaringen (vaak moeilijk)
+
+        Exemplos:
+
+        - Passei por momentos difíceis.\
+          #sym.arrow.r Ik heb moeilijke momenten doorgemaakt.
+        - Ela passou por muito na vida.\
+          #sym.arrow.r Zij heeft veel meegemaakt in haar leven.
+
+      + zich voordoen als / doorgaan voor
+
+        hoe iemand wordt gezien of zich presenteert
+
+        Exemplos:
+
+        - Ele passou por médico.\
+          #sym.arrow.r Hij deed zich voor als dokter.
+        - Isto passa por verdade.\
+          #sym.arrow.r Dit wordt als waarheid gezien.
+    ],
+    [dar com], [
+      - iets (toevallig) vinden
+      - ergens op stuiten
+      - encontrar
+      - achar
+    ],
+    // [], [],
+    // [], [],
+    // [], [],
     // [], [],
     // [], [],
     // [], [],
@@ -435,7 +537,7 @@
 
 #exercise
 
-+ sugestão 
++ sugestão ideal
 + Fazer o percurso
 + andar de carro
 + transitar
