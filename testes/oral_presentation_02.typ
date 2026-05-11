@@ -7,7 +7,7 @@ A história começa quando era criança.
 Cedo na minha vida descobri que tinha uma paixão por tudo que acontece no mundo dos aviões.
 Nos meus tempos livres, gostava de brincar com Legos e sempre construia vários tipos de aviões e helicópteros.
 Durante muitos anos, recebi dos meus pais uma revista chamada #quote[Airplane]. 
-Nessa revista, estavam descritos vários tipos de aviões civis e militares.
+Nessa revista, eram descritos vários tipos de aviões civis e militares.
 Aprendi sobre a história dos aviões, sobre navegação e sobre os detalhes técnicos de um avião. 
 Em geral, não gostava de ler, só gostava de ler quando se tratava de aviões.
 Quando recebi o meu primeiro computador, brincava muito com um jogo chamado #quote[Flight Simulator].
