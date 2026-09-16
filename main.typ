@@ -38,6 +38,7 @@
 #include "unidade_04.typ"
 #include "unidade_05.typ"
 #include "unidade_06.typ"
+#include "unidade_07.typ"
 // #include "conjuntivo.typ"
 // #include "preposicoes.typ"
 
